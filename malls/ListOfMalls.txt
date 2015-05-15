@@ -4,3 +4,121 @@ Ngee Ann City
 Tampines Mall
 ION Orchard
 Plaza Singapura
+
+Central
+313@Somerset
+Bugis Junction
+Bugis+
+Bugis Cube
+Change Alley (Singapore)
+Chinatown Point
+City Square Mall
+Great World City
+ION Orchard
+Liang Court
+Marina Bay Sands
+Mustafa Centre
+Ngee Ann City
+Orchard Central
+Orchard Gateway
+Pearl Centre
+People's Park Complex
+People's Park Centre
+Plaza Singapura
+POMO
+Raffles City
+Serangoon Plaza
+Sim Lim Square
+Tangs Orchard
+Tanglin Mall
+Tanglin Shopping Centre
+Tekka Centre
+The Central
+The Centrepoint
+The Verge
+Wisma Atria
+Wheelock Place
+
+Marina Centre
+Marina Square
+Millenia Walk
+South Beach Mall
+Suntec City
+
+East
+112 Katong
+Bedok Mall
+Bedok Point
+Century Square
+Changi Airport
+Changi City Point
+East Point Mall
+Kallang Leisure Park
+Kallang Wave Mall
+Katong V
+One KM
+Parkway Parade
+Paya Lebar Square
+Tampines 1
+Tampines Mall
+White Sands
+
+North
+AMK Hub
+Causeway Point
+HDB Hub
+Junction 8
+Junction 9
+Northpoint Shopping Centre
+Novena Square
+Sembawang Shopping Centre
+Square 2
+Sun Plaza
+Thomson Plaza
+
+North East
+Compass Point
+Greenwich V
+Heartland Mall
+Hougang 1
+Hougang Mall
+myVillage @ Serangoon
+Nex
+Rivervale Mall
+Rivervale Plaza
+The Seletar Mall
+The Midtown
+Upper Serangoon Shopping Centre
+Waterway Point
+
+North West
+Bukit Panjang Plaza
+hillv2
+Junction 10
+Limbang Shopping Centre
+The Rail Mall
+West Mall
+Yew Tee Point
+
+South
+Alexandra Retail Centre
+HarbourFront Centre
+Marina Bay Link Mall
+Queensway Shopping Centre
+VivoCity
+
+West
+Anchorpoint
+Big Box
+Boon Lay Shopping Centre
+Clementi Mall
+Fairprice Hub
+IMM
+JCube
+Jem
+Jurong Point Shopping Mall
+Pioneer Mall
+Rochester Mall
+Star Vista
+Tiong Bahru Plaza
+Westgate
