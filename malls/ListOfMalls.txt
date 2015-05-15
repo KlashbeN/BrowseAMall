@@ -9,10 +9,6 @@ Central
 313@Somerset
 Bugis Junction
 Bugis+
-Bugis Cube
-Chinatown Point
-City Square Mall
-Great World City
 ION Orchard
 Liang Court
 Marina Bay Sands
@@ -20,16 +16,10 @@ Ngee Ann City
 Orchard Central
 Orchard Gateway
 Plaza Singapura
-POMO
 Raffles City
-Serangoon Plaza
 Tangs Orchard
-Tanglin Mall
-Tanglin Shopping Centre
-Tekka Centre
 The Central
 The Centrepoint
-The Verge
 Wisma Atria
 Wheelock Place
 
