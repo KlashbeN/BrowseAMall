@@ -10,25 +10,19 @@ Central
 Bugis Junction
 Bugis+
 Bugis Cube
-Change Alley (Singapore)
 Chinatown Point
 City Square Mall
 Great World City
 ION Orchard
 Liang Court
 Marina Bay Sands
-Mustafa Centre
 Ngee Ann City
 Orchard Central
 Orchard Gateway
-Pearl Centre
-People's Park Complex
-People's Park Centre
 Plaza Singapura
 POMO
 Raffles City
 Serangoon Plaza
-Sim Lim Square
 Tangs Orchard
 Tanglin Mall
 Tanglin Shopping Centre
@@ -104,15 +98,12 @@ South
 Alexandra Retail Centre
 HarbourFront Centre
 Marina Bay Link Mall
-Queensway Shopping Centre
 VivoCity
 
 West
 Anchorpoint
-Big Box
 Boon Lay Shopping Centre
 Clementi Mall
-Fairprice Hub
 IMM
 JCube
 Jem
