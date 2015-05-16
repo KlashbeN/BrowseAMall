@@ -12,13 +12,13 @@
 }
 
 #centernav {
-  width: 900px; /* if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+  width: 100%; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
   margin-left: auto ;
   margin-right: auto ;
 }
 
 #dropnav 
-{height:25px; background:#999;} /* Changes the height and bg color of the main menu */
+{height:30px; background:#254;} /* Changes the height and bg color of the main menu */
 
 #dropnav ul
 {margin:0px; padding:0px;}
