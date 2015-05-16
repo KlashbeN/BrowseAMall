@@ -12,13 +12,13 @@
 }
 
 #centernav {
-  width: 100%; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+  width: 700px; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
   margin-left: auto ;
   margin-right: auto ;
 }
 
 #dropnav 
-{height:30px; background:#254;} /* Changes the height and bg color of the main menu */
+{height:30px; background:rgba(0,0,0,0);} /* Changes the height and bg color of the main menu */
 
 #dropnav ul
 {margin:0px; padding:0px;}
@@ -27,7 +27,7 @@
 {display:inline; float:left; list-style:none; margin-left:15px; position:relative; height:25px; width: 150px;} /* only edit the last 2 items - sets the width of the main menu */
 
 #dropnav li a
-{color:#FFF; text-decoration:none;} /* Changes the link color of items on the main menu */
+{color:#000; text-decoration:none;} /* Changes the link color of items on the main menu */
 
 #dropnav li a:hover
 {color:#900; text-decoration:none;}/* Changes the hover color of items on the main menu */
