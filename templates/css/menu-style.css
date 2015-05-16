@@ -12,7 +12,7 @@
 }
 
 #centernav {
-  width: 700px; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+  width: 900px; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
   margin-left: auto ;
   margin-right: auto ;
 }
