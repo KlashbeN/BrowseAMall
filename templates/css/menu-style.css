@@ -72,7 +72,7 @@ li#main  {padding-top: 2px;} /* Sets the padding of items in the main menu */
 body{
 	margin-right: auto;
 	margin-left: auto;
-	width:900px;
+	width:100%;
 	background-image:url(/img/bg.jpg);
 }
 
