@@ -1,72 +1,111 @@
-<style type="text/css">
+@import url(http://fonts.googleapis.com/css?family=Capriola);
+#cssmenu,
+#cssmenu ul,
+#cssmenu ul li,
+#cssmenu ul li a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  line-height: 1;
+  display: block;
+  position: relative;
+  font-family: Capriola, Helvetica, sans-serif;
+}
+#cssmenu {
 
-#pagebody { position: inherit !important; width: 100%; } /* DO NOT EDIT */
-#pagebody-inner { position: inherit !important; width: 100%; } /* DO NOT EDIT */
-
-#alpha, #beta, #gamma, #delta {
-    display: inline; /* DO NOT EDIT */
-    position: inherit !important; /* DO NOT EDIT */
-    float: left; /* DO NOT EDIT */
-    min-height: 1px; /* DO NOT EDIT */
+  width: auto;
+  height: 59px;
+  padding-bottom: 4px;
+}
+#cssmenu.align-right {
+  float: right;
+}
+#cssmenu.align-right ul li {
+  float: right;
+  margin-right: 0;
+  margin-left: 4px;
+}
+#cssmenu.align-right ul li:first-child,
+#cssmenu.align-right ul li:first-child > a {
+  border-bottom-right-radius: 3px;
+}
+#cssmenu #bg-one,
+#cssmenu #bg-two,
+#cssmenu #bg-three,
+#cssmenu #bg-four {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+#cssmenu #bg-one {
+  height: 10px;
+  background: #0f71ba;
+}
+#cssmenu #bg-two {
+  height: 59px;
+  z-index: 2;
+  background: url('bg.png');
+}
+#cssmenu #bg-three {
+  bottom: 4px;
+  height: 55px;
+  z-index: 3;
+  background: #222222;
+  background: -moz-linear-gradient(top, #555555 0%, #222222 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #555555), color-stop(100%, #222222));
+  background: -webkit-linear-gradient(top, #555555 0%, #222222 100%);
+  background: -o-linear-gradient(top, #555555 0%, #222222 100%);
+  background: -ms-linear-gradient(top, #555555 0%, #222222 100%);
+  background: linear-gradient(to bottom, #555555 0%, #222222 100%);
+}
+#cssmenu #bg-four {
+  bottom: 4px;
+  height: 55px;
+  z-index: 4;
+  background: url('bg.png');
+}
+#cssmenu ul {
+  height: 59px;
+}
+#cssmenu ul li {
+  float: left;
+  margin-right: 4px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  z-index: 5;
+}
+#cssmenu ul li a {
+  padding: 24px 30px 20px 30px;
+  margin-bottom: 4px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  color: #eeeeee;
+  font-size: 15px;
+  text-decoration: none;
+}
+#cssmenu ul li:first-child,
+#cssmenu ul li:first-child > a {
+  border-bottom-left-radius: 3px;
+}
+#cssmenu ul li:hover,
+#cssmenu ul li.active {
+  background: #0f71ba;
+  background: -moz-linear-gradient(top, #3fa4f0 0%, #0f71ba 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #3fa4f0), color-stop(100%, #0f71ba));
+  background: -webkit-linear-gradient(top, #3fa4f0 0%, #0f71ba 100%);
+  background: -o-linear-gradient(top, #3fa4f0 0%, #0f71ba 100%);
+  background: -ms-linear-gradient(top, #3fa4f0 0%, #0f71ba 100%);
+  background: linear-gradient(to bottom, #3fa4f0 0%, #0f71ba 100%);
+}
+#cssmenu ul li a:hover,
+#cssmenu ul li.active > a {
+  background: url('bg.png');
+  color: #ffffff;
 }
 
-#centernav {
-  width: 100%; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
-  margin-left: auto ;
-  margin-right: auto ;
-  position:absolute;
-  margin-top:10px; /* 90px previously */
-  background-color: #819FF7;
-  width:95%; /* 75% previously */
-}
-
-
-#dropnav 
-{height:30px; background:rgba(0,0,0,0);} /* Changes the height and bg color of the main menu */
-
-#dropnav ul
-{margin:0px; padding:0px;}
-
-#dropnav ul li
-{display:inline; float:left; list-style:none; margin-left:15px; position:relative; height:25px; width: 150px;} /* only edit the last 2 items - sets the width of the main menu */
-
-#dropnav li a
-{color:#000; text-decoration:none;} /* Changes the link color of items on the main menu */
-
-#dropnav li a:hover
-{color:#900; text-decoration:none;}/* Changes the hover color of items on the main menu */
-
-#dropnav li ul
-{margin:0px; padding:0px; display:none; position:absolute; left:0px; z-index: 99; top:25px; background-color:#CCC;} /* Only edit the last 2 items - set the top margin and background color of the submenus */
-
-#dropnav li:hover ul
-{display:block; width:150px;} /* sets the width of the submenus */
-
-#dropnav li li
-{list-style:none; display:list-item;} /* DO NOT EDIT */
-
-#dropnav li li a
-{color:#000; text-decoration:none;} /* Changes the link color of items in the submenu */
-
-#dropnav li li a:hover
-{color:#900; text-decoration:none;} /* Changes the hover color of items in the submenu */
-
-li#main  {padding-top: 2px;} /* Sets the padding of items in the main menu */
-
-#header{
-	position: relative;
-	background-image:url(/img/banner.jpg);
-	margin-right: auto;
-	margin-left: auto;
-	background: no-repeat center center cover;	
-	height:100px;
-}
-
-#header a {
-	display: block;
-	width: 100%;
-	height: 100%;
-}
 
 /*whole page color */
 body{
@@ -75,5 +114,3 @@ body{
 	width:900px;
 	background-color:#A9F5D0;
 }
-
-</style>
