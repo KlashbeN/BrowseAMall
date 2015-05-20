@@ -11,7 +11,7 @@
 }
 
 #centernav {
-  width: 900px; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
+  width: 100%; /* 900px if you want your nav centered, set this to the width of your container, if you don't want it centered, change this number to 100% */
   margin-left: auto ;
   margin-right: auto ;
   position:absolute;
@@ -56,8 +56,8 @@ header{
 	background-image:url(/img/banner.jpg);
 	margin-right: auto;
 	margin-left: auto;
-	background-repeat: no-repeat;	
-	height:100px;
+	background-repeat: no-repeat;
+	height:100px;	
 }
 
 /*whole page color */
