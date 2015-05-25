@@ -1,6 +1,5 @@
 <style type="text/css">
 
-
 #pagebody { position: inherit !important; width: 100%; } /* DO NOT EDIT */
 #pagebody-inner { position: inherit !important; width: 100%; } /* DO NOT EDIT */
 
@@ -34,7 +33,7 @@ body{
 	background-size:cover;
 }
 
-
+/*menu bar*/
 html, div, span, applet, object, iframe,
 blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -205,7 +204,11 @@ table {
 .icon-home {
   background-position: 0 0;
 }
+
 /*directory*/
+table{
+    margin :0px auto;
+}
    #results table td {
     font-size: 1.25em;
     font-weight: bold;
@@ -220,9 +223,9 @@ table {
 }
 
 .formbg {
-    background: #adadad; padding: 16px;
-    background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #afafaf) );
-    background:-moz-linear-gradient( center top, #ededed 5%, #afafaf 100% );
+    padding: 16px;
+    background:-webkit-gradient( linear, left top, left bottom);
+    background:-moz-linear-gradient( center top, #ededed 5%  );
 }
 
 input.typebox {
@@ -237,12 +240,12 @@ input.typebox {
         inset 0 0 8px  rgba(0,0,0,0.1),
         0 0 16px rgba(0,0,0,0.1);
     padding: 4px;
-    background: rgba(255,255,255,0.9);
+    background: #81DAF5; /* box background */
     margin: 0 0 0px 0;
-    font-size: 2em;
+    font-size: 110%;
     font-family: monospace;
     font-weight: bold;
-    width: 50%;
+    width: 30%;
 }
 .splaining div {
     margin-bottom: 0.5em;
@@ -256,6 +259,7 @@ button#search {
     background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
     background-color:#ededed;
+    width:18%;
     -moz-border-radius:6px;
     -webkit-border-radius:6px;
     border-radius:6px;
@@ -263,7 +267,7 @@ button#search {
     display:inline-block;
     color:#333333;
     font-family:arial;
-    font-size:1.2em;
+    font-size:80%;
     font-weight:bold;
     padding:6px 24px;
     text-decoration:none;
