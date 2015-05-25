@@ -2,20 +2,45 @@
 <html>
 <head>
 <title> Browse A Mall </title>
-<link rel="stylesheet" type = "text/css" href = "../templates/css/mall-style.css">
+<link rel="stylesheet" type = "text/css" href = "/templates/css/mall-style.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src = "vivoShops.js"></script>
+    <!-- START DEV SCRIPTS -->
+    <script type="text/javascript" src="../scripts/src/unicode/categ_letters_numbers.js"></script>
+    <script type="text/javascript" src="../scripts/src/unicode/normalizer_lowercase_nomark.js"></script>
+    <script type="text/javascript" src="../scripts/src/unicode/unicode.js"></script>
+
+    <script type="text/javascript" src="../scripts/src/analyzers.js"></script>
+    <script type="text/javascript" src="../scripts/src/normalizers.js"></script>
+    <script type="text/javascript" src="../scripts/src/normalizers/english/porter-stemmer.js"></script>
+    <script type="text/javascript" src="../scripts/src/normalizers/english/metaphone.js"></script>
+    <script type="text/javascript" src="../scripts/src/misc/dataloader.js"></script>
+    <script type="text/javascript" src="../scripts/src/capabilities.js"></script>
+
+    <script type="text/javascript" src="../scripts/src/utils.js"></script>
+    <script type="text/javascript" src="../scripts/src/boolean-engine.js"></script>
+    <script type="text/javascript" src="../scripts/src/common-engine.js"></script>
+    <script type="text/javascript" src="../scripts/src/resultsets.js"></script>
+    <script type="text/javascript" src="../scripts/src/storemanager.js"></script>
+    <script type="text/javascript" src="../scripts/src/stores/memory_store.js"></script>
+    <script type="text/javascript" src="../scripts/src/stores/websql_store.js"></script>
+    <script type="text/javascript" src="../scripts/src/stores/indexeddb_store.js"></script>
+    
+    <!-- END DEV SCRIPTS -->
+
 </head>
 
 <body>
 	
 <div id ="header">
-	<a href="index.html" ></a>
+<a href="../index.html" ></a>
 </div>
 
 <section class="container">
     <nav>
       <ul class="nav">
         <li><a href="../index.html" class="nav-icon" title="Home"><span class="icon-home">Home</span></a></li>
-        <li class = "active"><a href="browse.html" title="Mall">Malls</a></li>
+        <li class = "active"><a href="../browse.html" title="Mall">Malls</a></li>
         <li><a href="../aboutus.html" title="About">About</a></li>
         <li><a href="../index.html" title="Blog">Blog</a></li>
         <li><a href="../contactus.html" title="Contact">Contact</a></li>
@@ -26,7 +51,7 @@
 <div id ="mallinfo">
 <h2 style =" font-family:Cursive; font-size:200%;"> Vivo City </h2>
 
-<img src="../img/VivoCity.jpg" style = "height :300px; width:400px" />
+<img src="../img/VivoCity.jpg" alt="VivoCity" height ="300px" width:"400px" >
 
 
 <h3> How to get there? </h3>
@@ -34,7 +59,7 @@
 <p>Click <a href="https://www.google.com.sg/maps/dir/''/vivocity+address/@1.2643388,103.7879751,13z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x31da1958974bbc2b:0xba34578f519df13f!2m2!1d103.822308!2d1.264339"> here</a> for VivoCity location on Google Map</p>
 
 <h4> Nearest MRT </h4>
-<p> Habourfront MRT (NE1/CC29)
+<p> Habourfront MRT (NE1/CC29)</p>
 
 <h4> Bus </h4> 
 <p> 10, 30, 30e, 57, 61, 65, 80, 97, 97e, 100, 123, 123M, 131, 143, 145, 166, 855, NR1, NR6, RWS8 </p>
@@ -45,6 +70,99 @@
 <h3> Contact </h3>
 <p>63776870 / 63776860 </p>
 </div>
+
+<h3> Directory </h3> 
+<div class="formbg">
+    <div id="application">
+        <div>
+            <input type="text" id="typehere" class="typebox">
+            <button id="search">Search for Shops!</button>
+        </div>
+    </div>
+</div>
+<div class="grid">
+    <div id="results"></div>
+</div>
+
+<script type="text/javascript">
+
+    /**
+     * The initializer is a function called by the engine when the index
+     * is created for the first time. It provides an opportunity to populate
+     * the index with its data.
+     * @param {fullproof.TextInjector} injector an object of type fullproof.TextInjector
+     * @param callback function function to call when the initialization is done
+     */
+    function initializer(injector, callback) {
+        var synchro = fullproof.make_synchro_point(callback, shops.length);
+        for (var i=0;i<shops.length; ++i) {
+            var text = shops[i].name +" " + shops[i].type;
+            injector.inject(text, i, synchro);
+        }
+    }
+
+    /**
+     * This function get called when the engine is done opening itself
+     * @param b true if the engine was successfully open, false otherwise
+     */
+    function engineReady(b) {
+        if (!b) {
+            alert("Can't load the search engine!");
+        }
+
+    }
+
+        $(document).ready(function() {
+        var dbName = "shops";
+        var shopSearchEngine = new fullproof.BooleanEngine();
+
+        var index1 = {
+            name: "normalindex",
+            analyzer: new fullproof.StandardAnalyzer(fullproof.normalizer.to_lowercase_nomark, fullproof.normalizer.remove_duplicate_letters),
+            capabilities: new fullproof.Capabilities().setStoreObjects(false).setUseScores(false).setDbName(dbName).setDbSize(1*1024*1024),
+            initializer: initializer
+        };
+        var index2 = {
+            name: "stemmedindex",
+            analyzer: new fullproof.StandardAnalyzer(fullproof.normalizer.to_lowercase_nomark, fullproof.english.metaphone),
+            capabilities: new fullproof.Capabilities().setStoreObjects(false).setUseScores(false).setDbName(dbName).setDbSize(1*1024*1024),
+            initializer: initializer
+        };
+
+        shopSearchEngine.open([index1, index2], fullproof.make_callback(engineReady, true), fullproof.make_callback(engineReady, false));
+
+        /**
+         * The seach function manages the terms lookup and result display
+         */
+        function search() {
+            var value = $("#typehere").val();
+
+            // Request a search to the mario engine, then displays the results, if any.
+            shopSearchEngine.lookup(value, function(resultset) {
+                var result ="";
+                if (resultset && resultset.getSize()) {
+                    var rsize = resultset.getSize();
+                    result = "<h1>Found " + rsize + " shops"+(rsize>1?"s":"")+" matching your request.</h1>";
+                    result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
+                    resultset.forEach(function(e) {
+                        var c = shops[e];
+                        result += "<tr><td style='font-weight: bold;'>"+ c.name+"</td>";
+                        result += "<td>"+ c.unit+"</td>";
+                        result += "<td>"+ c.contact+"</td></tr>";
+                    });
+                    result += "</table>";
+                } else {
+                    result = "<h2>No result found :-(</h2>";
+                }
+                $("#results").html(result);
+            });
+        }
+
+        // Bind the search action
+        $("#search").click(search);
+        $("#typehere").change(search);
+
+    });</script>
 
 </body>
 </html>
