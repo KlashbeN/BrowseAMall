@@ -137,7 +137,7 @@
         function search() {
             var value = $("#typehere").val();
 
-            // Request a search to the shop engine, then displays the results, if any.
+            // Request a search to the mario engine, then displays the results, if any.
             shopSearchEngine.lookup(value, function(resultset) {
                 var result ="";
                 if (resultset && resultset.getSize()) {
@@ -162,9 +162,7 @@
         $("#search").click(search);
         $("#typehere").change(search);
 
-    });
-    </script>
-    
+    });</script>
 </div>
 </body>
 </html>
