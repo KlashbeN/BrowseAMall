@@ -20,7 +20,7 @@ Aimed current level of achievement: Vostok(Will be re-evaluating this in Milesto
 
 ##Description
 
-###Scope of your project: 
+####Scope of your project: 
 
 This project aims to create a user-friendly experience in browsing the different malls and stores in Singapore with an all-in-one browsing 
 experience in the same website.An iOS application will also becreated which allows users to easily browse mall information and navigate
