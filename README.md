@@ -10,7 +10,7 @@ Project Name: Browse A Mall
 Student Names: Cao Shuai Benjamin, Shirlene Quah Jia Min
 
 
-Project URL: (http://www.browseamall.com) "Browse A Mall" 
+Project URL: (http://www.browseamall.com "Browse A Mall" )
 					   
 					
 Aimed current level of achievement: Vostok(Will be re-evaluating this in Milestone 2 
