@@ -375,5 +375,5 @@ var shops= [
     {name:"The Pet Safari",unit:"#03-05/05A",contact:"6376 9508"},
     {name:"R-evolution / Space & Light Studios",unit:"#03-09",contact:"6376 9697"},
 
-    {name:"The Polliwogs",unit:"#03-12",contact:"6376 80987"},
+    {name:"The Polliwogs",unit:"#03-12",contact:"6376 80987"}
     ];
