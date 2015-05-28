@@ -10,7 +10,7 @@ Project Name: Browse A Mall
 Student Names: Cao Shuai Benjamin, Shirlene Quah Jia Min
 
 
-Project URL: [browseamall](http://wwww.browseamall.com "Browse A Mall")
+Project URL: [Browse A Mall](http://wwww.browseamall.com )
 					  
 
 					
