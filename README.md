@@ -1,6 +1,6 @@
-=============================  #README ======================
+============================= README ======================
 
-==== #Information ====
+#Information
 
 Team: Dinosaur
 Project Name: Browse A Mall
@@ -13,8 +13,7 @@ Aimed current level of achievement: Vostok(Will be re-evaluating this in Milesto
  									to upgrade to project Gemini)
 
 
-==== #Description =====
-
+#Description
 Scope of your project: This project aims to create a user-friendly experience in 
 					   browsing the different malls and stores in Singapore with an all-in-one 
 					   browsing experience in the same website. An iOS application will also be
@@ -23,7 +22,7 @@ Scope of your project: This project aims to create a user-friendly experience in
 
 
 
-==== #Security Vulnerabilities ====
+#Security Vulnerabilities
 
 If you discover a security vulnerability within http://www.browseamall.com, 
 please send an e-mail to support@browseamall.com. All security vulnerabilities
