@@ -5,7 +5,7 @@ Team: Dinosaur
 
 Project Name: Browse A Mall
 
-Student Names: Cao Shuai Benjamin, Shirlene Quah Jia Min
+Student Names: Cao Shuai Benjamin, Shirlene Quah Jiamin
 
 Project URL: [Browse A Mall](http://wwww.browseamall.com )
 					  
