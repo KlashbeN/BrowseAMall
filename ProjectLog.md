@@ -50,15 +50,25 @@ Total 61hours.
 
 Date: 22nd May
 What did we do? debugging to find out the reason for the missing banner in one of the page. 
+				About 4hrs each student
+Total 65 hours
 
 Date: 23 May - 24 May 
 What did we do? Started finding out ways to improve the website layout. Started finding the search we need for store directory. 
+				About 7hrs each student
+total 72 hours
 
 Date: 25May
 What did we do? modify and debug the search code we found. And find out more things we can add to the website - forums. 
+				About 3hrs each student
+Total 75 hours
 
 Date: 26 May 
 What did we do? started on the js file to contain all the stores in vivo 
+				About 3hrs each student
+Total 78 hours
 
 Date: 27-28 May 
 What did we do? debug the code as it did not perform the search correctly.
+				About 4hrs each student
+Total 82 hours
