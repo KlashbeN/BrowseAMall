@@ -49,4 +49,16 @@ What did we do? Continue reading up on Swift. Start planning on how we should pl
 Total 61hours.
 
 Date: 22nd May
-What did we do? 
+What did we do? debugging to find out the reason for the missing banner in one of the page. 
+
+Date: 23 May - 24 May 
+What did we do? Started finding out ways to improve the website layout. Started finding the search we need for store directory. 
+
+Date: 25May
+What did we do? modify and debug the search code we found. And find out more things we can add to the website - forums. 
+
+Date: 26 May 
+What did we do? started on the js file to contain all the stores in vivo 
+
+Date: 27-28 May 
+What did we do? debug the code as it did not perform the search correctly.
