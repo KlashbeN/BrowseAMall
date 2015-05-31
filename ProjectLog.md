@@ -65,10 +65,10 @@ Total 75 hours
 
 Date: 26 May 
 What did we do? started on the js file to contain all the stores in vivo 
-				About 3hrs each student
-Total 78 hours
+				About 4hrs each student
+Total 79 hours
 
 Date: 27-28 May 
 What did we do? debug the code as it did not perform the search correctly.
 				About 4hrs each student
-Total 82 hours
+Total 83 hours
