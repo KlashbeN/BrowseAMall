@@ -8,6 +8,8 @@ Project Name: Browse A Mall
 Student Names: Cao Shuai Benjamin, Shirlene Quah Jiamin
 
 Project URL: [Browse A Mall](http://wwww.browseamall.com )
+		
+Video URL: [Dinosaur Project Browse A Mall](https://youtu.be/osQjStOAci0?t=8336)
 					  
 Aimed current level of achievement: Vostok(Will be re-evaluating this in Milestone 2 
  									to upgrade to project Gemini)
