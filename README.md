@@ -21,6 +21,14 @@ This project aims to create a user-friendly experience in browsing the different
 experience in the same website.An iOS application will also becreated which allows users to easily browse mall information and navigate
 inside the mall, finding their stores of interest. 
 
+###Overview
+
+###Features done
+
+###Planned features
+
+###Proposed Level of Achievement
+
 
 
 ##Security Vulnerabilities
