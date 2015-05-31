@@ -24,6 +24,7 @@ inside the mall, finding their stores of interest.
 ###Overview
 
 ###Features done
+Currently, we have done the menu bar, search for different malls and one mall page.
 
 ###Planned features
 
