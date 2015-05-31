@@ -29,6 +29,8 @@ inside the mall, finding their stores of interest.
 
 ###Proposed Level of Achievement
 
+###References
+http://tomhallam.github.io/jQuery-Multicomplete/
 
 
 ##Security Vulnerabilities
