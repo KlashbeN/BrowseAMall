@@ -25,12 +25,12 @@ inside the mall, finding their stores of interest.
 Currently, we have done the menu bar, search for different malls and one mall page.
 
 ###Planned features
+Our team hopes to add more malls to the website. Also, we plan to add in the carpark rates of the malls to allow people to have easy reference and access to them. Once we have the website done, we would like to implement an iOS application with similar features found on the website.
 
 ###Proposed Level of Achievement
 
 ###References
 http://tomhallam.github.io/jQuery-Multicomplete/
-
 
 ##Security Vulnerabilities
 
