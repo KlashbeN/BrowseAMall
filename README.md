@@ -28,6 +28,7 @@ inside the mall, finding their stores of interest.
 
 ###Features done
 Currently, we have done the navigation bar, search tool for different malls and one mall page. We have also done up the banner image.
+We have also setup the email accounts needed.
 
 ###Planned features
 Our team hopes to add more malls to the website. 
