@@ -125,8 +125,8 @@
      */
     function initializer(injector, callback) {
         var synchro = fullproof.make_synchro_point(callback, shops.length);
-        for (var i=0;i<shops.length; ++i) {
-            var text = shops[i].name +" " + shops[i].type;
+        for (var i=0;i<vivoShops.length; ++i) {
+            var text = vivoShops[i].name +" " + vivoShops[i].type;
             injector.inject(text, i, synchro);
         }
     }
@@ -143,7 +143,7 @@
     }
 
         $(document).ready(function() {
-        var dbName = "Mt Sapola";
+        var dbName = "Timberland";
         var shopSearchEngine = new fullproof.BooleanEngine();
 
         var index1 = {
@@ -175,7 +175,7 @@
                     result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
                     result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
                     resultset.forEach(function(e) {
-                        var c = shops[e];
+                        var c = vivoShops[e];
                         result += "<tr><td style='font-weight: bold;'>"+ c.name+"</td>";
                         result += "<td>"+ c.unit+"</td>";
                         result += "<td>"+ c.contact+"</td></tr>";
