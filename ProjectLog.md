@@ -72,3 +72,15 @@ Date: 27-28 May
 What did we do? debug the code as it did not perform the search correctly.
 				About 4hrs each student
 Total 83 hours
+
+Date: 30th May
+What did we do? Prepare the README and Project Log files for submission to SkyLab.
+				About 2hours each student
+Total 85 hours
+
+Date: 31st May
+What did we do? Prepare the README file and Project Log files. Debug on the search code for the store directory.
+				About 3hours each student
+Total 88hours.
+
+
