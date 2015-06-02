@@ -4,11 +4,8 @@
 <title>Coming Soon</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" >
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style type="text/css" href="template/css/layout-styles.css">
-body {
-  /*background: linear-gradient(90deg, white, gray);*/
-  background-color: #eee;
-}
+<link rel="stylesheet" type="text/css" href="/templates/css/layout-styles.css">
+<style type="text/css" href="template/css/layout-styles.css"> 
 
 body, h1, p {
   font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
@@ -21,7 +18,7 @@ body, h1, p {
 .container {
   margin-left:  auto;
   margin-right:  auto;
-  margin-top: 177px;
+  /*margin-top: 177px;  177px */
   max-width: 1170px;
   padding-right: 15px;
   padding-left: 15px;
@@ -56,6 +53,24 @@ a {
 </head>
 
 <body>
+	
+	<div id ="header">
+<a href ="index.html"></a>
+</div>
+
+<section class="container">
+    <nav>
+      <ul class="nav">
+        <li><a href="index.html" class="nav-icon" title="Home"><span class="icon-home">Home</span></a></li>
+        <li><a href="browse.html" title="Mall">Malls</a></li>
+        <li><a href="parking.html" title"Parking Rates">Parking Rates</a></li>
+        <li><a href="forums/index.php" title="Blog">Forums</a></li>
+        <li class = "active"><a href="aboutus.html" title="About Us">About Us</a></li>
+        <li><a href="contactus.html" title="Contact">Contact Us</a></li>
+      </ul>
+    </nav>
+  </section>
+	
 <div class="container text-center" id="error">
 
   <svg height="100" width="100">
