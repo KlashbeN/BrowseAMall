@@ -100,7 +100,7 @@
     <div id="application">
         <div>
             <input type="text" id="typehere" class="typebox">
-            <button id="search">Search for Shops!</button>
+            <button id="search">Search!</button>
         </div>
     </div>
 </div>
@@ -174,7 +174,7 @@
                 var result ="";
                 if (resultset && resultset.getSize()) {
                     var rsize = resultset.getSize();
-                    result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
+                    //result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
                     result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
                     resultset.forEach(function(e) {
                         var c = ionShops[e];
