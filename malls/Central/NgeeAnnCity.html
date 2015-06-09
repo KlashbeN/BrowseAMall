@@ -69,39 +69,32 @@
 <p> Orchard MRT (NS22/TE14)</p>
 
 <h4> Bus </h4> 
-<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1</p>
+<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1</p></p>
 
-<h3> Opening hours: </h3>
-<p> 10am to 9.30pm Daily </p>
-
-<h3> Contact </h3>
-<p> 6506 0461 / 6506 0462 </p></p>
         </div>
     </div>
  
     <div class="expandable-panel" id="cp-2">
         <div class="expandable-panel-heading">
-            <h2>Test2<span class="icon-close-open"></span></h2>
+            <h2>About Ngee Ann City<span class="icon-close-open"></span></h2>
          </div>
         <div class="expandable-panel-content">
-            <p>Panel HTML...</p>
+            <p>
+<h3> Opening hours: </h3>
+<p> 10am to 9.30pm Daily </p>
+
+<h3> Contact </h3>
+<p> 6506 0461 / 6506 0462 </p></p>
  
         </div>
   </div>
  
   <div class="expandable-panel" id="cp-3">
      <div class="expandable-panel-heading">
-         <h2>Test3<span class="icon-close-open"></span></h2>
+         <h2>Directory<span class="icon-close-open"></span></h2>
      </div>
      <div class="expandable-panel-content">
-         <p>Panel HTML...</p>
-     </div>
-  </div> 
- 
-</div>
-
-<!--
-
+        <!-- <p>
 <h3> Directory </h3> 
 <div class="formbg">
     <div id="application">
@@ -114,7 +107,14 @@
 <div class="grid">
     <div id="results"></div>
 </div>
-<div id="debug"></div>
+<div id="debug"></div></p> -->
+     </div>
+  </div> 
+ 
+</div>
+
+<!--
+
 
 <script type="text/javascript">
 
@@ -128,7 +128,7 @@
     function initializer(injector, callback) {
         var synchro = fullproof.make_synchro_point(callback, ionShops.length);
         for (var i=0;i<ionShops.length; ++i) {
-            var text = ionShops[i].name +" " + ionShops[i].type;
+            var text = ionShops[i].name +" " + ionShops[i].unit + " " + ionShops[i].contact;
             injector.inject(text, i, synchro);
         }
     }
