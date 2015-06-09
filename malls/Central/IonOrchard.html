@@ -4,7 +4,7 @@
 <title> Browse A Mall </title>
 <link rel="stylesheet" type = "text/css" href = "/templates/css/mall-style.css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-<script src = "vivoShops.js"></script>
+<script src = "ionShops.js"></script>
 <script src = "../scripts/collapsibleinfo.js"></script>
     <!-- START DEV SCRIPTS -->
     <script type="text/javascript" src="../scripts/src/unicode/categ_letters_numbers.js"></script>
@@ -42,9 +42,10 @@
       <ul class="nav">
         <li><a href="../index.html" class="nav-icon" title="Home"><span class="icon-home">Home</span></a></li>
         <li class = "active"><a href="../browse.html" title="Mall">Malls</a></li>
-        <li><a href="../aboutus.html" title="About">About</a></li>
-        <li><a href="../index.html" title="Blog">Blog</a></li>
-        <li><a href="../contactus.html" title="Contact">Contact</a></li>
+       <li><a href ="../parking.html" title = "Parking Rates">Parking Rates</a></li>
+        <li><a href="../forums/index.php" title="Forums">Forums</a></li>
+        <li><a href="../aboutus.html" title="About Us">About Us</a></li>
+        <li><a href="../contactus.html" title="Contact">Contact Us</a></li>
       </ul>
     </nav>
   </section>
@@ -68,51 +69,46 @@
 <p> Orchard MRT (NS22/TE14)</p>
 
 <h4> Bus </h4> 
-<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1, NR2, NR3</p>
+<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1, NR2, NR3</p></p>
 
-<h3> Opening hours: </h3>
-<p> 10am to 10pm Daily </p>
 
-<h3> Contact </h3>
-<p> 6238 8228 </p></p>
         </div>
     </div>
  
     <div class="expandable-panel" id="cp-2">
         <div class="expandable-panel-heading">
-            <h2>Test2<span class="icon-close-open"></span></h2>
+            <h2>About ION Orchard <span class="icon-close-open"></span></h2>
          </div>
         <div class="expandable-panel-content">
-            <p>Panel HTML...</p>
+            <p><h3> Opening hours: </h3>
+<p> 10am to 10pm Daily </p>
+
+<h3> Contact </h3>
+<p> 6238 8228 </p></p></p>
  
         </div>
   </div>
  
   <div class="expandable-panel" id="cp-3">
      <div class="expandable-panel-heading">
-         <h2>Test3<span class="icon-close-open"></span></h2>
+         <h2>Directory<span class="icon-close-open"></span></h2>
      </div>
      <div class="expandable-panel-content">
-         <p>Panel HTML...</p>
-     </div>
-  </div> 
- 
-</div>
-
-<!--
-<h3> Directory </h3> 
-<div class="formbg">
+         <p><div class="formbg">
     <div id="application">
         <div>
             <input type="text" id="typehere" class="typebox">
-            <button id="search">Search for Shops!</button>
+            <button id="search">Search!</button>
         </div>
     </div>
 </div>
 <div class="grid">
     <div id="results"></div>
 </div>
-<div id="debug"></div>
+<div id="debug"></div></p>
+     </div>
+  </div>
+</div>
 
 <script type="text/javascript">
 
@@ -124,9 +120,9 @@
      * @param callback function function to call when the initialization is done
      */
     function initializer(injector, callback) {
-        var synchro = fullproof.make_synchro_point(callback, shops.length);
-        for (var i=0;i<vivoShops.length; ++i) {
-            var text = vivoShops[i].name +" " + vivoShops[i].type;
+        var synchro = fullproof.make_synchro_point(callback, ionShops.length);
+        for (var i=0;i<ionShops.length; ++i) {
+            var text = ionShops[i].name +" " + ionShops[i].unit + " " + ionShops[i].contact;
             injector.inject(text, i, synchro);
         }
     }
@@ -143,7 +139,7 @@
     }
 
         $(document).ready(function() {
-        var dbName = "";
+        var dbName = "ion";
         var shopSearchEngine = new fullproof.BooleanEngine();
 
         var index1 = {
@@ -172,10 +168,10 @@
                 var result ="";
                 if (resultset && resultset.getSize()) {
                     var rsize = resultset.getSize();
-                    result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
+                   // result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
                     result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
                     resultset.forEach(function(e) {
-                        var c = vivoShops[e];
+                        var c = ionShops[e];
                         result += "<tr><td style='font-weight: bold;'>"+ c.name+"</td>";
                         result += "<td>"+ c.unit+"</td>";
                         result += "<td>"+ c.contact+"</td></tr>";
@@ -192,6 +188,6 @@
         $("#search").click(search);
         $("#typehere").change(search);
 
-    });</script>-->
+    });</script>
 </body>
 </html>
