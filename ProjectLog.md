@@ -1,3 +1,10 @@
+| Work/Features   |  details           | hours  |
+|:---------------:| :-----------------:| :-----:|
+|Workshop         | Attend day 1 and 2 | 16hrs  |
+
+
+Total : 
+
 Date: 11th and 12th May 
 What did we do? Orbital day1 (8hrs) , Orbital day2(8hrs) both students
 Total 16hrs each student
