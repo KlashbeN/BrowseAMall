@@ -35,14 +35,13 @@ Currently, we have done:
 * Vivo City page to store the informations about Vivo City. These informations include the mall opening hours, contact number, shop directory and the directions. 
 * The banner image which is used on every page.
 * Setup the email accounts needed.
+* Added in the carpark rates  of the malls to allow people to have easy reference and access to them.
 
 ####Planned features
 * Our team hopes to add more malls to the website. 
-* We plan to add in the carpark rates of the malls to allow people to have easy reference and access to them.
 * Once we have the website done, we would like to implement an iOS application with similar features found on the website.
-* We would also touch up on the store search feature which is currently buggy.
 * One click login to forums with social network accounts will also be implemented. 
-
+* Adding in bootstrap to ease view on different devices
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
