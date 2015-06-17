@@ -69,7 +69,7 @@ What did we do? started on the js file to contain all the stores in vivo
 Total 81 hours
 
 Date: 27-28 May 
-What did we do? debug the code as it did not perform the search correctly.
+What did we do? Debug the code as it did not perform the search correctly.
 				About 4hrs each student
 Total 85 hours
 
@@ -78,9 +78,42 @@ What did we do? Prepare the README and Project Log files for submission to SkyLa
 				About 2hours each student
 Total 87 hours
 
-Date: 31st May
-What did we do? Prepare the README file and Project Log files. Debug on the search code for the store directory.
-				About 3hours each student
-Total 90hours.
+Date: 31st May - 1st June
+What did we do? Prepare and submit the README file and Project Log files. Debug on the search code for the store directory.
+				About 5hours each student
+Total 92 hours.
 
+Date: 2nd June 
+What did we do? Search and uploaded the code for carpark rates. started on ion.js file
+				About 4hrs each student
+Total 96 hours
+
+Date: 3rd-4th June
+What did we do? continue on ion.js file. started on ngeeAnnCity.js file. wrote the evaluations for other teams.
+				About 5hrs each student 
+Total 101 hours
+
+Date: 5th-6th June
+What did we do? continue ngeeAnnCity.js file. Research on database. uploaded ion.js file
+				About 5hrs each student
+Total 106 hours 
+
+Date: 7th-8th June
+What did we do? Read up on bootstrap and frames. 
+				About 5hrs each student 
+Total 111 hours
+
+Date: 9th June
+What did we do? Realised we should not use frames. Continue search on bootstrap. uploaded ngeeAnnCity.js file.
+				About 4 hrs each student
+Total 115 hours
+
+Date: 10th June
+What did we do? Ngee Ann City search not working, search did not work on google Chrome. Started to debug these errors. 
+				About 4 hrs each student
+Total 119 hours 
+
+Date: 11th- ? June 
+What did we do? Research on bootstrap for website.
+				
 
