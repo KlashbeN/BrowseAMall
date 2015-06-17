@@ -94,24 +94,24 @@ What did we do? continue on ion.js file. started on ngeeAnnCity.js file. wrote t
 Total 101 hours
 
 Date: 5th-6th June
-What did we do? continue ngeeAnnCity.js file. Research on database. uploaded ion.js file
+What did we do? continue ngeeAnnCity.js file. Research on database to see if it is useful. uploaded ion.js file
 				About 5hrs each student
 Total 106 hours 
 
 Date: 7th-8th June
 What did we do? Read up on bootstrap and frames. 
-				About 5hrs each student 
-Total 111 hours
+				About 4hrs each student 
+Total 110 hours
 
 Date: 9th June
 What did we do? Realised we should not use frames. Continue search on bootstrap. uploaded ngeeAnnCity.js file.
-				About 4 hrs each student
-Total 115 hours
+				About 3 hrs each student
+Total 113 hours
 
 Date: 10th June
 What did we do? Ngee Ann City search not working, search did not work on google Chrome. Started to debug these errors. 
 				About 4 hrs each student
-Total 119 hours 
+Total 117 hours 
 
 Date: 11th- ? June 
 What did we do? Research on bootstrap for website.
