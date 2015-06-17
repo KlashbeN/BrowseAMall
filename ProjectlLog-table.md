@@ -12,9 +12,14 @@
 |Debugging and improving website                           | 6 hrs  | 
 |Search and modify code for store directory                | 5 hrs  | 
 |Added more features - forums                              | 3 hrs  |
-|Started on js file to contain stores in vivo              | 4 hrs  | 
-|Debugging of search directory                             | 5 hrs  |
-|Prepare README and ProjectLog                             | 4 hrs  | 
+|Wrote on js file to contain stores in vivo                | 4 hrs  | 
+|Debugging of search directory                             | 6 hrs  |
+|Prepare README and ProjectLog                             | 5 hrs  | 
+|Search and modify code for carpark rates                  | 4 hrs  |
+|Wrote on ion.js and ngeeAnnCity.js files                  | 5 hrs  |
+|Wrote evaluations for other teams                         | 2 hrs  |
+|Research on database                                      | 3 hrs  |
+|Search on bootstrap and frames                            | 7 hrs  |
+|Debugging search on Chrome and Ngee Ann City page         | 4 hrs  | 
 
-
-Total : 90 hrs each 
+Total : 117 hrs each as of 10th June
