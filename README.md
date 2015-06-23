@@ -36,6 +36,7 @@ Currently, we have done:
 * The banner image which is used on every page.
 * Setup the email accounts needed.
 * Added in the carpark rates  of the malls to allow people to have easy reference and access to them.
+* Added in Ngee Ann City and Ion Orchard page with similar features as Vivo City page
 
 ####Planned features
 * Our team hopes to add more malls to the website. 
