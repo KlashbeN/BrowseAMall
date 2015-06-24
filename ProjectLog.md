@@ -113,7 +113,13 @@ What did we do? Ngee Ann City search not working, search did not work on google 
 				About 4 hrs each student
 Total 117 hours 
 
-Date: 11th- ? June 
+Date: 11th- 20th June 
 What did we do? Research on bootstrap for website.
-				
+				About ? hrs each student
 
+Date: 23th - 24th June 
+What did we do? Updated About us and Contact us page. 
+				About 2 hrs each student. 
+Total 
+
+Date: 
