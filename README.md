@@ -37,6 +37,7 @@ Currently, we have done:
 * Setup the email accounts needed.
 * Added in the carpark rates  of the malls to allow people to have easy reference and access to them.
 * Added in Ngee Ann City and Ion Orchard page with similar features as Vivo City page
+* About us and Contact us page containing information about the site and how to contact us. 
 
 ####Planned features
 * Our team hopes to add more malls to the website. 
