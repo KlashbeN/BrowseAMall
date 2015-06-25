@@ -25,34 +25,36 @@ discussion board.
 ####Scope of your project/Overview: 
 
 This project aims to create a user-friendly experience in browsing the different malls and stores in Singapore with an all-in-one browsing 
-experience in the same website.An iOS application will also becreated which allows users to easily browse mall information and navigate
+experience in the same website.An iOS application will also be created which allows users to easily browse mall information and navigate
 inside the mall, finding their stores of interest. 
 
 ####Features done
-Currently, we have done the navigation bar, search tool for different malls and one mall page. We have also done up the banner image.
-We have also setup the email accounts needed.
+Currently, we have done:
+* Navigation bar which is use to facilitate the user to navigate through the website
+* Search tool for different malls to allow user to search through the malls
+* Vivo City page to store the informations about Vivo City. These informations include the mall opening hours, contact number, shop directory and the directions. 
+* The banner image which is used on every page.
+* Setup the email accounts needed.
+* Added in the carpark rates  of the malls to allow people to have easy reference and access to them.
+* Added in Ngee Ann City and Ion Orchard page with similar features as Vivo City page
+* About us and Contact us page containing information about the site and how to contact us. 
 
 ####Planned features
-Our team hopes to add more malls to the website. 
-Also, we plan to add in the carpark rates of the malls to allow people to have easy reference and access to them.
-Once we have the website done, we would like to implement an iOS application with similar features found on the website.
-We would also touch up on the store search feature which is currently buggy.
-One click login to forums with social network accounts will also be implemented. 
-
-##Proposed Level of Achievement
-
-
+* Our team hopes to add more malls to the website. 
+* Once we have the website done, we would like to implement an iOS application with similar features found on the website.
+* One click login to forums with social network accounts will also be implemented. 
+* Adding in bootstrap to ease view on different devices
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
 [Little Web Hut](http://www.littlewebhut.com/)
 [Code Academy](http://www.codecademy.com/)
 [W3 Schools](http://www.w3schools.com/)
-
+[Fullproof](http://reyesr.github.io/fullproof/)
+[Forum](add in later)
 
 ##Security Vulnerabilities
 
 If you discover a security vulnerability within http://www.browseamall.com, 
 please send an e-mail to support@browseamall.com. All security vulnerabilities
 will be promptly addressed.
-
