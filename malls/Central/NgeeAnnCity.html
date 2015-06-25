@@ -3,10 +3,11 @@
 <head>
 <title> Browse A Mall </title>
 <link rel="stylesheet" type = "text/css" href = "/templates/css/mall-style.css">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-<!-- <script src = "ionShops.js"></script> -->
+<script src="../scripts/jquery.min.js"></script>
+<script src = "ngeeAnnCity.js"></script>
 <script src = "../scripts/collapsibleinfo.js"></script>
-    <!-- START DEV SCRIPTS -->
+<script type = "text/javascript" src = "../scripts/fullproof-all.js"></script>
+    <!-- START DEV SCRIPTS 
     <script type="text/javascript" src="../scripts/src/unicode/categ_letters_numbers.js"></script>
     <script type="text/javascript" src="../scripts/src/unicode/normalizer_lowercase_nomark.js"></script>
     <script type="text/javascript" src="../scripts/src/unicode/unicode.js"></script>
@@ -69,52 +70,45 @@
 <p> Orchard MRT (NS22/TE14)</p>
 
 <h4> Bus </h4> 
-<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1</p>
-
+<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1</p></p>
+        </div>
+    </div>
+    <div class="expandable-panel" id="cp-2">
+        <div class="expandable-panel-heading">
+            <h2>About Ngee Ann City<span class="icon-close-open"></span></h2>
+         </div>
+        <div class="expandable-panel-content">
+            <p>
 <h3> Opening hours: </h3>
 <p> 10am to 9.30pm Daily </p>
 
 <h3> Contact </h3>
 <p> 6506 0461 / 6506 0462 </p></p>
-        </div>
-    </div>
- 
-    <div class="expandable-panel" id="cp-2">
-        <div class="expandable-panel-heading">
-            <h2>Test2<span class="icon-close-open"></span></h2>
-         </div>
-        <div class="expandable-panel-content">
-            <p>Panel HTML...</p>
  
         </div>
   </div>
- 
   <div class="expandable-panel" id="cp-3">
      <div class="expandable-panel-heading">
-         <h2>Test3<span class="icon-close-open"></span></h2>
+         <h2>Directory<span class="icon-close-open"></span></h2>
      </div>
      <div class="expandable-panel-content">
-         <p>Panel HTML...</p>
-     </div>
-  </div> 
- 
-</div>
-
-<!--
-
-<h3> Directory </h3> 
+         
 <div class="formbg">
     <div id="application">
         <div>
             <input type="text" id="typehere" class="typebox">
-            <button id="search">Search for Shops!</button>
+            <button id="search">Search!</button>
         </div>
     </div>
 </div>
 <div class="grid">
     <div id="results"></div>
 </div>
-<div id="debug"></div>
+<div id="debug"></div></p> 
+     </div>
+  </div> 
+ 
+</div>
 
 <script type="text/javascript">
 
@@ -126,9 +120,9 @@
      * @param callback function function to call when the initialization is done
      */
     function initializer(injector, callback) {
-        var synchro = fullproof.make_synchro_point(callback, ionShops.length);
-        for (var i=0;i<ionShops.length; ++i) {
-            var text = ionShops[i].name +" " + ionShops[i].type;
+        var synchro = fullproof.make_synchro_point(callback, ngeeAnnCityshops.length);
+        for (var i=0;i<ngeeAnnCityshops.length; ++i) {
+            var text = ngeeAnnCityshops[i].name +" " + ngeeAnnCityshops[i].unit + " " + ngeeAnnCityshops[i].contact;
             injector.inject(text, i, synchro);
         }
     }
@@ -145,7 +139,7 @@
     }
 
         $(document).ready(function() {
-        var dbName = "ion";
+        var dbName = "ngeeanncity";
         var shopSearchEngine = new fullproof.BooleanEngine();
 
         var index1 = {
@@ -174,10 +168,10 @@
                 var result ="";
                 if (resultset && resultset.getSize()) {
                     var rsize = resultset.getSize();
-                    result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
+                    //result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
                     result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
                     resultset.forEach(function(e) {
-                        var c = ionShops[e];
+                        var c = ngeeAnnCityshops[e];
                         result += "<tr><td style='font-weight: bold;'>"+ c.name+"</td>";
                         result += "<td>"+ c.unit+"</td>";
                         result += "<td>"+ c.contact+"</td></tr>";
@@ -194,6 +188,6 @@
         $("#search").click(search);
         $("#typehere").change(search);
 
-    });</script>-->
+    });</script>
 </body>
 </html>
