@@ -114,7 +114,7 @@ What did we do? Ngee Ann City search not working, search did not work on google 
 Total 117 hours 
 
 Date: 23th - 24th June 
-What did we do? Updated About us and Contact us page. 
+What did we do? Edited About us, Contact us and index page. 
 				About 2 hrs each student. 
 Total 119 hours 
 
