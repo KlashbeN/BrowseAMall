@@ -35,7 +35,7 @@ Currently, we have done:
 * Navigation bar which is use to facilitate the user to navigate through the website. Navigation bar would include all pages (Home, Browse, Parking Rates, Forums, About Us, Contact Us).
 
 * Browse
-..* Search tool for different malls. This would lead the user to the mall's page. 
+⋅⋅* Search tool for different malls. This would lead the user to the mall's page. 
 ..* Each mall page would contain informations about the mall. These informations range from a guide to location,
 the mall's opening hours and contact number and shop directory. The shop directory uses a search function where user enters the shop they would like to enquire and it would show the user the shop's name, unit and contact number.
 ..* Currently, we have mall pages for Vivo City, Ngee Ann City and Ion Orchard.
