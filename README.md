@@ -45,7 +45,7 @@ the mall's opening hours and contact number and shop directory. The shop directo
 ..* The carpark rates are broken down into different regions for users to find their malls easily.
 
 * Forums
-..* This page would act as a guide to users on the current sales and promotions malls are having. 
+	* This page would act as a guide to users on the current sales and promotions malls are having. 
 
 * About us 
 ..* This would contain the information about this website. 
