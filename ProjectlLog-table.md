@@ -21,6 +21,8 @@
 |Research on database                                      | 3 hrs  |
 |Search on bootstrap and frames                            | 7 hrs  |
 |Debugging search on Chrome and Ngee Ann City page         | 4 hrs  | 
-|Updating of About us and Contact us page                  | 2 hrs  |
+|Edited of About us, Contact us and index page             | 2 hrs  |
+|Search on bootstrap to be used for website                | 6 hrs  |
+|Edited and customise forums page                          | 4 hrs  |
 
-Total : 119 hrs each as of 24th June
+Total : 129 hrs each as of 24th June
