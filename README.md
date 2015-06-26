@@ -35,23 +35,22 @@ Currently, we have done:
 * Navigation bar which is use to facilitate the user to navigate through the website. Navigation bar would include all pages (Home, Browse, Parking Rates, Forums, About Us, Contact Us).
 
 * Browse
-⋅⋅* Search tool for different malls. This would lead the user to the mall's page. 
-..* Each mall page would contain informations about the mall. These informations range from a guide to location,
-the mall's opening hours and contact number and shop directory. The shop directory uses a search function where user enters the shop they would like to enquire and it would show the user the shop's name, unit and contact number.
-..* Currently, we have mall pages for Vivo City, Ngee Ann City and Ion Orchard.
+	* Search tool for different malls. This would lead the user to the mall's page. 
+	* Each mall page would contain informations about the mall. These informations range from a guide to location, the mall's opening hours and contact number and shop directory. The shop directory uses a search function where user enters the shop they would like to enquire and it would show the user the shop's name, unit and contact number.
+	* Currently, we have mall pages for Vivo City, Ngee Ann City and Ion Orchard.
 
 * Parking rates
-..* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them.
-..* The carpark rates are broken down into different regions for users to find their malls easily.
+	* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them.
+	* The carpark rates are broken down into different regions for users to find their malls easily.
 
 * Forums
 	* This page would act as a guide to users on the current sales and promotions malls are having. 
 
 * About us 
-..* This would contain the information about this website. 
+	* This would contain the information about this website. 
 
 * Contact us
-..* This would provide users with the emails for them to feedback to us about the website.
+	* This would provide users with the emails for them to feedback to us about the website.
 
 ####Planned features
 * Our team hopes to add more malls to the website. 
