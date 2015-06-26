@@ -40,7 +40,6 @@ Currently, we have done:
 * Parking rates
 	* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them.
 	* The carpark rates are broken down into different regions for users to find their malls easily.
-
 * Forums
 	* This page would act as a guide to users on the current sales and promotions malls are having. 
 * About us 
