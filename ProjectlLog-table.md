@@ -25,4 +25,4 @@
 |Search on bootstrap to be used for website                | 6 hrs  |
 |Edited and customise forums page                          | 4 hrs  |
 
-Total : 129 hrs each as of 24th June
+Total : 129 hrs each as of 26th June
