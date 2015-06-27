@@ -32,7 +32,6 @@ inside the mall, finding their stores of interest.
 Currently, we have done:
 * The banner image which is used on every page.
 * Setup the email accounts needed.
-<<<<<<< HEAD
 * Added in the carpark rates  of the malls to allow people to have easy reference and access to them.
 * Added in Ngee Ann City and Ion Orchard pages with similar features as Vivo City page
 * About us and Contact us page containing information about the site and how to contact us. 
@@ -44,7 +43,7 @@ Currently, we have done:
 * Login in allows user to view new promotions/news about their saved favourite malls or most visited.
 * Adding in bootstrap to ease view on different mobile or tablet devices.
 * Refine the forum further.
-=======
+
 * Navigation bar which is use to facilitate the user to navigate through the website. Navigation bar would include all pages (Home, Browse, Parking Rates, Forums, About Us, Contact Us).
 * Browse
 	* Search tool for different malls. This would lead the user to the mall's page. 
@@ -65,7 +64,7 @@ Currently, we have done:
 * One click login to forums with social network accounts will also be implemented. 
 * Adding in bootstrap to ease view on different devices.
 * Once we have the website done, we would like to implement an iOS application with similar features found on the website.
->>>>>>> origin/master
+
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
@@ -73,11 +72,8 @@ Currently, we have done:
 [Code Academy](http://www.codecademy.com/)
 [W3 Schools](http://www.w3schools.com/)
 [Fullproof](http://reyesr.github.io/fullproof/)
-<<<<<<< HEAD
 [Forum](http://www.phpbb.com)
-=======
-[Forum to be added]
->>>>>>> origin/master
+
 
 ##Security Vulnerabilities
 
