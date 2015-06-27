@@ -114,14 +114,16 @@ What did we do? Ngee Ann City search not working, search did not work on google 
 Total 117 hours 
 
 Date: 23th - 24th June 
-What did we do? Updated About us and Contact us page. 
+What did we do? Edited About us, Contact us and index page. 
 				About 2 hrs each student. 
-Total 
+Total 119 hours 
 
 Date: 11th- 20th June 
-What did we do? Research on bootstrap for website.
-				About ? hrs each student
+What did we do? Research and played around on bootstrap for website.
+				About 6 hrs each student
+Total 125 hours
 
 Date: 25th - ?th June
 What did we do? Played around and customise forums page.
-				About 
+				About 4hrs each student
+Total 129 hours
