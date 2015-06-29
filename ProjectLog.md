@@ -123,7 +123,12 @@ What did we do? Research and played around on bootstrap for website.
 				About 6 hrs each student
 Total 125 hours
 
-Date: 25th - ?th June
+Date: 25th - 27th June
 What did we do? Played around and customise forums page.
 				About 4hrs each student
 Total 129 hours
+
+Date: 27th - 29th June
+What did we do? Prepare README and ProjectLog for submission. Prepare and upload video. 
+				About 6hrs each student
+Total 135 hours	
