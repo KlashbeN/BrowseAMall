@@ -26,4 +26,4 @@
 |Edited and customise forums page                          | 4 hrs  |
 |Prepare and upload README, ProjectLog, Video              | 6 hrs  |
 
-Total : 129 hrs each as of 26th June
+Total : 135 hrs each as of 29th June
