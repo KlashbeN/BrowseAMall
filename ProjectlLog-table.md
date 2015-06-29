@@ -27,3 +27,5 @@
 |Prepare and upload README, ProjectLog, Video              | 6 hrs  |
 
 Total : 135 hrs each as of 29th June
+
+More details of this projectLog can be found [here](https://github.com/KlashbeN/BrowseAMall/blob/master/ProjectLog.md)
