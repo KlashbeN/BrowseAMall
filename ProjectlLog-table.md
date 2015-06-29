@@ -24,5 +24,6 @@
 |Edited of About us, Contact us and index page             | 2 hrs  |
 |Search on bootstrap to be used for website                | 6 hrs  |
 |Edited and customise forums page                          | 4 hrs  |
+|Prepare and upload README, ProjectLog, Video              | 6 hrs  |
 
 Total : 129 hrs each as of 26th June
