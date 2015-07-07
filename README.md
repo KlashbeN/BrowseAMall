@@ -59,6 +59,7 @@ Currently, we have done:
 [W3 Schools](http://www.w3schools.com/)
 [Fullproof](http://reyesr.github.io/fullproof/)
 [Forum](http://www.phpbb.com)
+[Forum Connect to Social Network] (https://docs.oneall.com/plugins/guide/social-login-phpbb/?v=3.1.x) 
 
 ##Security Vulnerabilities
 
