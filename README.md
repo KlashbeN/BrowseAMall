@@ -37,6 +37,7 @@ Currently, we have done:
 * Browse
 	* Search tool for different malls. This would lead the user to the mall's page. 
 	* Each mall page would contain informations about the mall. These informations range from a guide to location, the mall's opening hours and contact number and shop directory. The shop directory uses a search function where user enters the shop they would like to enquire and it would show the user the shop's name, unit and contact number.
+	* Google Maps used to provide users the directions to get to the place.(Only Ion Orchard)
 	* Currently, we have mall pages for Vivo City, Ngee Ann City and Ion Orchard.
 * Parking rates
 	* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them.
@@ -60,6 +61,8 @@ Currently, we have done:
 [Fullproof](http://reyesr.github.io/fullproof/)
 [Forum](http://www.phpbb.com)
 [Forum Connect to Social Network] (https://docs.oneall.com/plugins/guide/social-login-phpbb/?v=3.1.x) 
+[Google Maps] (http://www.map-embed.com)
+[Google Directions(http://charliesaidthat.com/digital/web-design/all-small-businesses-need-this-how-to-add-google-map-directions-for-customers-to-your-website/)
 
 ##Security Vulnerabilities
 
