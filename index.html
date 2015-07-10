@@ -9,6 +9,15 @@
 </head>
 
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div id ="header">
 <a href ="index.html"></a>
 </div>
@@ -31,6 +40,8 @@
 <p style = "margin-top: 50px; font-size:20px; font-family:Courier"> Come look through browseamall! </p>
 
 <p style = "margin-top: 50px;font-size:15px;color:#848484"> Current list of malls include: Ion Orchard, Ngee Ann City, Vivo City </p>
+
+<div class="fb-like" data-href="http://browseamall.com/" data-width="200px" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
 
 </body>
     
