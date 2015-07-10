@@ -60,9 +60,9 @@ Currently, we have done:
 [W3 Schools](http://www.w3schools.com/)
 [Fullproof](http://reyesr.github.io/fullproof/)
 [Forum](http://www.phpbb.com)
-[Forum Connect to Social Network] (https://docs.oneall.com/plugins/guide/social-login-phpbb/?v=3.1.x) 
-[Google Maps] (http://www.map-embed.com)
-[Google Directions(http://charliesaidthat.com/digital/web-design/all-small-businesses-need-this-how-to-add-google-map-directions-for-customers-to-your-website/)
+[Forum Connect to Social Network](https://docs.oneall.com/plugins/guide/social-login-phpbb/?v=3.1.x) 
+[Google Maps](http://www.map-embed.com)
+[Google Directions](http://charliesaidthat.com/digital/web-design/all-small-businesses-need-this-how-to-add-google-map-directions-for-customers-to-your-website/)
 
 ##Security Vulnerabilities
 
