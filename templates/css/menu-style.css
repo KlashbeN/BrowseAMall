@@ -71,6 +71,14 @@ li#main  {padding-top: 2px;} /* Sets the padding of items in the main menu */
 	height: 100%;
 }
 
+#information {
+	padding: 10px;
+	margin-top: 10px;
+	margin-right: 150px;
+	margin-left: 150px;
+	margin-bottom: 500px;
+	border: 2px solid #ffffff;
+}
 /*whole page color */
 body{
 	margin-right: auto;
@@ -78,6 +86,7 @@ body{
 	width:100%;
 	background-image:url(/img/bg.jpg);
 	background-size:cover;
+	background-repeat: no-repeat;
 }
 
 
@@ -100,6 +109,7 @@ time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  text-align: center;
 }
 
 article, aside, details, figcaption, figure,
