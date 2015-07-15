@@ -44,11 +44,11 @@ Currently, we have done:
 	* The carpark rates are broken down into different regions for users to find their malls easily.
 * Forums
 	* This page would act as a guide to users on the current sales and promotions malls are having. 
+	* One click login to forums with social network accounts will also be implemented.
+	* Login in allows user to view new promotions/news about their saved favourite malls or most visited.
 
 ####Planned features
 * Our team hopes to add more malls to the website. 
-* One click login to forums with social network accounts will also be implemented.
-* Login in allows user to view new promotions/news about their saved favourite malls or most visited.
 * Refine the forum further.
 * Adding in bootstrap to ease view on different mobile or tablet devices.
 * Once we have the website done, we would like to implement an iOS application with similar features found on the website.
