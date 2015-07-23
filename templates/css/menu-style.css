@@ -71,7 +71,7 @@ li#main  {padding-top: 2px;} /* Sets the padding of items in the main menu */
 	height: 100%;
 }
 
-#information {
+.jumbotron{
 	padding: 10px;
 	margin-top: 10px;
 	margin-right: 150px;
@@ -79,6 +79,8 @@ li#main  {padding-top: 2px;} /* Sets the padding of items in the main menu */
 	margin-bottom: 500px;
 	border: 2px solid #ffffff;
 }
+
+
 /*whole page color */
 body{
 	margin-right: auto;
