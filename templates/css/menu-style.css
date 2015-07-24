@@ -16,9 +16,10 @@
 body{
 	margin-right: auto;
 	margin-left: auto;
-	width:100%;
 	background-image:url(/img/bg.jpg);
-	background-size:cover;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 	background-repeat: no-repeat;
 }
 
@@ -50,9 +51,6 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
-body {
-  line-height: 1;
-}
 
 ol, ul {
   list-style: none;
@@ -68,10 +66,7 @@ q:before, q:after {
   content: none;
 }
 
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
-}
+
 
 /*
     * jQuery MultiComplete - for browse search 
