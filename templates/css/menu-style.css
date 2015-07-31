@@ -94,7 +94,7 @@ table {
 }
 .panel-multicomplete-results {
     border: 1px solid #ccc;
-    width: 420px;
+    width: responsive;
     font-family: Tahoma;
     font-size: 12px;
     background: url(mc-bg.png) repeat-y;
@@ -115,13 +115,13 @@ table {
 }
 .panel-multicomplete-results .group-title {
     float: left;
-    width: 100px;
+    width: responsive/*100px*/;
     padding: 5px;
     font-weight: bold;
 }
 .panel-multicomplete-results .group-items {
     float: left;
-    width: 300px;
+    width: responsive/*300px*/;
 }
 .highlight {
     font-weight: bold;
