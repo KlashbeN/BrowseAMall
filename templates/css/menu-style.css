@@ -10,26 +10,14 @@
     min-height: 1px; /* DO NOT EDIT */
 }
 
-
 body{
-	background-image:url(/img/bg.jpg);
-	background-size:cover;
-	-webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-	background-repeat: no-repeat;
+  background: url(/img/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  height: 100%;
 }
-
-
-/*whole page color */
-/*body{
-	margin-right: auto;
-	margin-left: auto;
-	background-image:url(/img/bg.jpg);
-	background-size:cover;
-	background-repeat: no-repeat;
-}
-*/
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -139,10 +127,9 @@ table {
     font-weight: bold;
 }
 
-/* UTILITIES */
+/*UTILITIES */
 .clearfix {
     clear: both;
 }
-
 
 </style>
