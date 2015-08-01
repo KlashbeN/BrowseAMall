@@ -5,589 +5,591 @@
             "address": "1 Harbourfront Walk, Singapore 098585",
             "image": "http://www.feveravenue.com/wp-content/uploads/2012/07/VivoCity-Nite-4.jpg"
         },
+        
         {
             "name": "ION Orchard",
             "address": "2 Orchard Turn, Singapore 238801",
             "image": "http://livestudios.com/blog/wp-content/uploads/2010/12/30.jpg"
         },
+        
         {
             "name": "Ngee Ann City",
             "address": "391 Orchard Rd, Singapore 238873",
             "image": "http://www.yoursingapore.com/content/traveller/en/browse/shopping/shopping-malls/ngee-ann-city/_jcr_content/html/image.img.png"
-        }
+        },
         
         {
         	"name":"Raffles City",
         	"address":"252 North Bridge Road, Singapore 179103",
         	"image": "http://inside.capitaland.com/images/static/stories/articles/2011/aug11_01_raffles_city.jpg?sfvrsn=2"
-        }
+        },
         
         {
         	"name":"Bugis Junction",
         	"address":"200 Victoria Street, Singapore 188021",
         	"image":"http://www.yoursingapore.com/see-do-singapore/places-to-see/bras-basah-bugis/jcr:content/par-carousel/carousel_detailpage/carousel/item_1.thumbnail.carousel-img.740.416.jpg"
         	
-        }
+        },
         
         {
         	"name":"Marina Bay Sands",
         	"address":"10 Bayfront Ave, Singapore 018956",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/f/f9/Marina_Bay_Sands_in_the_evening_-_20101120.jpg"
         	
-        }
+        },
         
         {
         	"name":"Wisma Atria ",
         	"address":"435 Orchard Rd, Singapore 238877",
         	"image":"http://www.yoursingapore.com/content/traveller/en/browse/shopping/shopping-malls/wisma-atria/_jcr_content/html/image.img.png"
         	
-        }
+        },
         
         {
         	"name":"Marina Square",
         	"address":"6 Raffles Blvd, Singapore 039594",
         	"image":"http://www.dpdplus.com/en/wp-content/uploads/2011/11/MarinaSq1.jpg"
         	
-        }
+        },
         
         {
         	"name":"Suntec City",
         	"address":"3 Temasek Boulevard, Suntec City, Singapore 038983",
         	"image":"http://www.suntecsingapore.com/wp-content/uploads/Fountain-of-Wealth.jpg"
         	
-        }
-        
+        },
+      
         {
         	"name":"112 Katong",
         	"address":"112 East Coast Road, Singapore 428802",
         	"image":"http://tropikaeast.com.sg/sites/gu348s-dev3-tropikaeast.dispeldesign.com/files/styles/960x720_scale_to_fit/public/images/112-katong.jpg"
         	
-        }
+        },
         
         {
         	"name":"Parkway Parade",
         	"address":"80 Marine Parade Road, Singapore 449269",
         	"image":"http://www.greatnewplaces.com/images/Stores/img7646_10012013123854.jpeg"
         	
-        }
+        },
         
         {
         	"name":"Changi City Point",
         	"address":"5 Changi Business Park Central 1, Singapore 486038",
         	"image":"http://www.fraserscentrepointtrust.com/en/Asset%20Portfolio/~/media/Images/Asset%20Portfolio/CCP.ashx"
         	
-        }
+        },
         
         {
         	"name":"313@Somerset",
         	"address":"313 Orchard Rd, Singapore  238895",
         	"image":"http://www.herworldplus.com/sites/default/files/313%20christmas.png"
         	
-        }
+        },
         
         {
         	"name":"Bugis+",
         	"address":"201 Victoria Street, Singapore 188067",
         	"image":"http://www.surbana.com/wp-content/uploads/2014/03/bugis_plus_01.jpg"
         	
-        }
+        },
         
         {
         	"name":"Bugis Cube",
         	"address":"470 North Bridge Rd, Singapore 408936",
         	"image":"http://bugiscube.com.sg/images/index_carousel_01.jpg"
         	
-        }
+        },
         
         {
         	"name":"Great World City",
         	"address":"1 Kim Seng Promenade, Singapore 237994",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/3/3b/Great_World_City_3.JPG"
         	
-        }
+        },
         
         {
         	"name":"Liang Court",
         	"address":"177 River Valley Rd, Singapore 179030",
         	"image":"http://www.hitchins.com/sites/default/files/Liang%20Court%20-%20Singapore.jpg"
         	
-        }
+        },
         
         {
         	"name":"Mustafa Centre",
         	"address":"145 Syed Alwi Rd, Singapore 207704",
         	"image":"http://www.goingplacessingapore.sg/~/media/GoingPlaces/more/things-to-do/2012/PastMidnight/Photo-Gallery/mustafaCentre07-01.ashx"
         	
-        }
+        },
         
         {
         	"name":"Orchard Central",
         	"address":"181 Orchard Rd, Singapore 238896",
         	"image":"http://myfareasthome.com.sg/~/media/Images/MFEH/My%20Benefits/Bookings/Mains/oc_main.ashx"
         	
-        }
+        },
         
         {
         	"name":"Orchard Gateway",
         	"address":"277 Orchard Rd, Singapore 238858",
         	"image":"http://sg.asia-city.com/sites/default/files/imagecache/item_image/orchard-gateway.jpg"
         	
-        }
+        },
         
         {
         	"name":"Pearl Centre",
         	"address":"100 Eu Tong Sen Street, Singapore 059812",
         	"image":"http://s3images.sg.ippstatic.com/buildings/exterior/640/7e143840f2b645168ad3a80471d7707d.jpg"
         	
-        }
+        },
         
         {
         	"name":"People's Park Complex",
         	"address":"1 Park Road, Singapore 059108",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/People's_Park_Complex_2,_Dec_05.jpg/240px-People's_Park_Complex_2,_Dec_05.jpg"
         	
-        }
+        },
         
         {
         	"name":"People's Park Centre",
         	"address":"101 Upper Cross St, Singapore 058357",
         	"image":"http://qiito.com/img/cache/thumbs/3994518cfc5d183eb39a5dc8da116300.jpg"
         	
-        }
+        },
         
         {
         	"name":"Plaza Singapura",
         	"address":"68 Orchard Rd, Singapore 238839",
         	"image":"http://www.capitalandmallasia.com/-/media/images/cma/mall%20images/singapore/plaza%20singapura/2shopping%20mallssingaporeplaza%20singapuraplaza%20singapura%20singaporefacade%20main.jpg"
         	
-        }
+        },
         
         {
         	"name":"POMO",
         	"address":"1 Selegie Rd, Singapore 188306",
         	"image":"http://pomo.com.sg/wp-content/uploads/2014/09/Facade3540a252acbb87.png"
         	
-        }
+        },
         
         {
         	"name":"Serangoon Plaza",
         	"address":"320 Serangoon Rd, Singapore 218108",
         	"image":"http://www.stproperty.sg/articles-property/upload/article/142992__1384226104.jpg"
-        }
+        },
         
         {
         	"name":"Sim Lim Square",
         	"address":"1 Rochor Canal Rd, Singapore 188504",
         	"image":"http://www.streetdirectory.com/stock_images/travel/simg_show/11048348071666/1/sim_lim_square/"
-        }
+        },
         
         {
         	"name":"Tangs Orchard",
         	"address":"310 Orchard Rd, Singapore 238864",
         	"image":"http://media.timeout.com/images/101729571/617/347/image.jpg"
-        }
+        },
         
         {
         	"name":"Tanglin Mall",
         	"address":"163 Tanglin Rd, Singapore 247933",
         	"image":"http://www.streetdirectory.com/stock_images/travel/simg_show/11048348072604/1/tanglin_mall/"
-        }
+        },
         
         {
         	"name":"Tanglin Shopping Centre",
         	"address":"19 Tanglin Road, Singapore 247909",
         	"image":"http://comesingapore.com/pic/load/1003"
-        }
+        },
         
         {
         	"name":"Tekka Centre",
         	"address":"665 Buffalo Road, Singapore 210665 ",
         	"image":"http://dope.sg/wp-content/uploads/2015/04/57.jpg"
-        }
+        },
         
         {
         	"name":"The Central",
         	"address":"6 Eu Tong Sen St, Singapore 059817",
         	"image":"http://intdex.com//shopingCenter/central.jpg"
-        }
+        },
         
         {
         	"name":"The Centrepoint",
         	"address":"176 Orchard Road, Singapore 238843",
         	"image":"http://www.todayonline.com/sites/default/files/styles/photo_gallery_image_lightbox/public/21809532.JPG?itok=0GZub4D2"
-        }
+        },
         
         {
         	"name":"The Verge",
         	"address":"2 Serangoon Road, Singapore 218227",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tekka_Mall,_Sep_06.JPG/200px-Tekka_Mall,_Sep_06.JPG"
-        }
+        },
         
         {
         	"name":"Wheelock Place",
         	"address":"501 Orchard Road, Singapore 238880",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wheelockplace.JPG/300px-Wheelockplace.JPG"
-        }
+        },
         
         {
         	"name":"Millenia Walk",
         	"address":"9 Raffles Boulevard, Singapore 039596",
         	"image":"http://www.singaweb.info/wp-content/uploads/2009/01/0milleniawalk.jpg"
-        }
+        },
         
         {
         	"name":"South Beach Mall",
         	"address":"30 Beach Road, Singapore 189763 ",
         	"image":""
-        }
+        },
         
         {
         	"name":"Bedok Mall",
         	"address":"311 New Upper Changi Road, Singapore 467360",
         	"image":"http://cdn-cms.pgimgs.com/news/2015/07/Bedok-Mall.jpg"
-        }
+        },
         
         {
         	"name":"Bedok Point",
         	"address":"799 New Upper Changi Rd, Singapore 467351",
         	"image":"http://fraserscentrepointtrust.com/Asset%20Portfolio/~/media/Images/Asset%20Portfolio/Bedok%20Point%20Exterior.ashx"
-        }
+        },
         
         {
         	"name":"Century Square",
         	"address":"2 Tampines Central 5, Singapore 529509",
         	"image":"http://www.alllink.com.sg/images/century-square.jpg"
-        }
+        },
         
         {
         	"name":"East Point Mall",
         	"address":"3 Simei Street 6, Singapore 528833",
         	"image":"https://ordinarypatrons.com/wp-content/uploads/2014/12/Eastpoint-8.jpg"
-        }
+        },
         
         {
         	"name":"Kallang Leisure Park",
         	"address":"5 Stadium Walk, Singapore 397693",
         	"image":"http://cdn1.images.touristlink.com/repository/L/E/I/S/U/R/E/P/leisure-park-kallang.jpg"
-        }
+        },
         
         {
         	"name":"Kallang Wave Mall",
         	"address":"1 Stadium Place, Singapore 397628",
         	"image":"http://app.singapore.sg/~/media/data/www/xcms/images/sportshub_img15.jpg?la=en"
-        }
+        },
         
         {
         	"name":"Katong V",
         	"address":"30 East Coast Rd, Singapore 428751",
         	"image":"http://www.thesmartlocal.com/images/easyblog_images/632/VHK-2_20140526-045819_1.jpg"
-        }
+        },
         
         {
         	"name":"ONE KM",
         	"address":"11 Tanjong Katong Road, Singapore 437157",
         	"image":"http://sg.asia-city.com/sites/default/files/one_km_7.jpg"
-        }
+        },
         
         {
         	"name":"Paya Lebar Square",
         	"address":"60 Paya Lebar Road, Singapore 409051 ",
         	"image":"http://www.commercialproperties.sg/wp-content/gallery/paya-lebar-square-office-singapore/Paya-Lebar-Square-Taxi-Lobby-1.jpg"
-        }
+        },
         
         {
         	"name":"Tampines 1",
         	"address":"10 Tampines Central 1, Singapore 529536",
         	"image":"http://www.tampines1.com.sg/media/1092/t1-homepage-resized.jpg"
-        }
+        },
         
         {
         	"name":"Tampines Mall",
         	"address":"4 Tampines Central 5, Singapore 529510",
         	"image":"http://www.valore.sg/Valore/wp-content/uploads/2014/06/2013_tampines.jpg"
-        }
+        },
         
         {
         	"name":"White Sands",
         	"address":"1 Pasir Ris Close Downtown East, Singapore 519599",
         	"image":"http://www.whitesands.com.sg/media/1144/ws-front-day-view.jpg"
-        }
+        },
         
         {
         	"name":"AMK Hub",
         	"address":"53 Ang Mo Kio Avenue 3, Singapore 569933",
         	"image":"http://house-n-home.puzl.com/puzl/images/52000/52081/gallery/52554f4b8b1d5.jpg"
-        }
+        },
         
         {
         	"name":"Causeway Point",
         	"address":"Causeway Point, 1 Woodlands Square, Singapore 738099",
         	"image":"http://x1.sdimgs.com/simage/11107889960743.jpg"
-        }
+        },
                
         {
         	"name":"Junction 8",
         	"address":"9 Bishan PI , Singapore 579837",
         	"image":"http://www.skyhabitat.com.sg/assets/images/img1.jpg"
-        }
+        },
               
         {
         	"name":"Northpoint Shopping Centre",
         	"address":"930 Yishun Ave 2, Singapore 769098",
         	"image":"http://www.sgproperty55.com/wp-content/uploads/2015/02/northpoint-shopping-mall-singapore.jpg"
-        }
+        },
         
         {
         	"name":"Novena Square",
         	"address":"238 Thomson Road, Singapore 307683",
         	"image":"http://royalsquarenovena.info/wp-content/uploads/2013/09/14101317_1b770bbb16_z.jpg"
-        }
+        },
         
         {
         	"name":"Sembawang Shopping Centre",
         	"address":"604 Sembawang Rd, Singapore 758459",
         	"image":"http://www.capitalandmallasia.com/-/media/images/cma/mall%20images/singapore/sembawang%20shopping%20centre/2shopping%20malls_singapore_sembawang%20shopping%20centre_sembawang%20shopping%20centre%20singapore-facade.jpg"
-        }
+        },
         
         {
         	"name":"Square 2",
         	"address":"10 Sinaran Drive, Singapore 307506",
         	"image":"http://www.fareastretail.com.sg/FEO.Upload/FEORETAIL/CMS/square2-pic1b.jpg"
-        }
+        },
         
         {
         	"name":"Sun Plaza",
         	"address":"30 Sembawang Drive, Singapore 757713",
         	"image":"http://www.condowanted.sg/wp-content/uploads/2015/05/sun_plaza_shopping_mall.jpg"
-        }
+        },
         
         {
         	"name":"Thomson Plaza",
         	"address":"301 Upper Thomson Road, Singapore 574408",
         	"image":"http://sgnewpropertysale.com/wp-content/uploads/2013/06/Bright-Hill-Condo_Thomson_Plaza.jpg"
-        }
+        },
         
         {
         	"name":"Velocity",
         	"address":"238 Thomson Road, Singapore 307683",
         	"image":"http://d2qyg8c48afywd.cloudfront.net/wp-content/uploads/media/79/22279/Velocity.jpg"
-        }
+        },
         
         {
         	"name":"Compass Point",
         	"address":"1 Sengkang Square, Singapore 545078",
         	"image":"http://highpark-residences.org/wp-content/uploads/2015/05/Compass-Point.jpg"
-        }
+        },
         
         {
         	"name":"Greenwich V",
         	"address":"1 Seletar Road, Singapore 807011",
         	"image":"http://3.bp.blogspot.com/-ASapMVP_AvA/TzfSfWMKfTI/AAAAAAAAGu8/sMNemXS1MrI/s1600/GWV.jpg"
-        }
+        },
         
         {
         	"name":"Heartland Mall",
         	"address":"205 Hougang Street 21, Singapore 530205",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/8/80/Heartland_Mall_2,_Dec_05.JPG"
-        }
+        },
         
         {
         	"name":"Hougang 1",
         	"address":"1 Hougang Street 91, Singapore 538692",
         	"image":"https://c2.staticflickr.com/6/5549/9382505044_9d91dcbb51_b.jpg"
-        }
+        },
         
         {
         	"name":"Hougang Mall",
         	"address":"Hougang Ave 6, Singapore 538766",
         	"image":"http://www.hougangmall.com.sg/media/1112/hm-homepage-resized.jpg"
-        }
+        },
         
         {
         	"name":"myVillage @ Serangoon",
         	"address":"1 Maju Ave, Singapore 556679",
         	"image":"http://www.naturelandscapes.com/sites/default/files/TAN_3809.JPG"
-        }
+        },
         
         {
         	"name":"Nex",
         	"address":"23 Serangoon Central, Singapore 556083",
         	"image":"http://1.bp.blogspot.com/--GZnGNibhWU/VMyIEMZRjVI/AAAAAAAADbQ/CiQEB8fjZU4/s1600/BOtanique-at-bartley-NEX-serangoon.png"
-        }
+        },
         
         {
         	"name":"Rivervale Mall",
         	"address":"11 Rivervale Crescent, Singapore 545082",
         	"image":"http://www.capitalandmallasia.com/-/media/images/cma/mall%20images/singapore/rivervale%20mall/2shopping%20malls_singapore_rivervale%20mall_rivervale%20mall%20singapore-facade.jpg"
-        }
+        },
         
         {
         	"name":"Rivervale Plaza",
         	"address":"Blk 118 Rivervale Drive, Singapore 540118",
         	"image":"http://ljenergy.com/wp-content/uploads/2015/01/Rivervale-Plaza.jpg"
-        }
+        },
         
         {
         	"name":"The Seletar Mall",
         	"address":"33 Sengkang West Avenue, Singapore 797653",
         	"image":"http://www.theseletarmall.com/assets/seletar/img/facade2.jpg"
-        }
+        },
         
         {
         	"name":"The Midtown",
         	"address":"",
         	"image":""
-        }
+        },
         
         {
         	"name":"Upper Serangoon Shopping Centre",
         	"address":"756 Upper Serangoon Road, Singapore 534626",
         	"image":"https://remembersingapore.files.wordpress.com/2011/04/upper-serangoon-shopping-center1b.jpg?w=640&h=487"
-        }
+        },
         
         {
         	"name":"Waterway Point",
         	"address":"83 Punggol Central, Singapore 828761",
         	"image":""
-        }
+        },
         
         {
         	"name":"Junction 10",
         	"address":"1 Woodlands Road, Singapore 677899",
         	"image":"http://holeegroup.com.sg/wp-content/uploads/2014/03/Junction-10.jpg"
-        }
+        },
         
         {
         	"name":"Limbang Shopping Centre",
         	"address":"533 Choa Chu Kang Street 51, Singapore 680534",
         	"image":"https://www.hdb.gov.sg/fi10/fi10221p.nsf/Attachment/AR0506/$file/13_img_12.jpg"
-        }
+        },
         
         {
         	"name":"Lot One Shopper's Mall",
         	"address":"21 Choa Chu Kang Ave 4, Singapore 689812",
         	"image":"http://d2qyg8c48afywd.cloudfront.net/wp-content/uploads/2013/07/lot_one.jpg"
-        }
+        },
         
         {
         	"name":"The Rail Mall",
         	"address":"380 Upper Bukit Timah Road, Singapore 678040",
         	"image":"http://1.bp.blogspot.com/-up4QaEG1eNk/UxhMS_Sgk3I/AAAAAAAAAz0/6HgtrJxQ8f4/s1600/The-Rail-Mall.jpg"
-        }
+        },
         
         {
         	"name":"West Mall",
         	"address":"1 Bukit Batok Central Link, Singapore 658713",
         	"image":"http://www.bca.gov.sg/data/imgCont/building/Bukit%20Batok%20Community%20Library%20(West%20Mall)%20Facade.jpg"
-        }
+        },
         
         {
         	"name":"Yew Tee Point",
         	"address":"21 Choa Chu Kang North 6, Singapore 689578",
         	"image":"http://4.bp.blogspot.com/-QsWdSfASf-s/UqFrrh2mL1I/AAAAAAAAYnk/5B5p9dFIhE0/s1600/4.jpg"
-        }
+        },
         
         {
         	"name":"Alexandra Retail Centre",
         	"address":"460 Alexandra Road, Singapore 119963",
         	"image":"http://www.naturelandscapes.com/sites/default/files/TAN_3636-1_1.jpg"
-        }
+        },
         
         {
         	"name":"HarbourFront Centre",
         	"address":"1 Maritime Square, Singapore 099253",
         	"image":"https://upload.wikimedia.org/wikipedia/commons/2/27/HarbourFront_Centre_2,_Aug_06.JPG"
-        }
+        },
         
         {
         	"name":"Marina Bay Link Mall",
         	"address":"8A Marina Boulevard, Singapore 018984",
         	"image":""
-        }
+        },
         
         {
         	"name":"Queensway Shopping Centre",
         	"address":"1 Queensway, Singapore 149053,",
         	"image":"http://www.carparking.info/ShowCarParkPhoto?Id=1060"
-        }
+        },
         
         {
         	"name":"Anchorpoint",
         	"address":"370 Alexandra Road, Singapore 159953",
         	"image":"http://www.thebestsingapore.com/wp-content/uploads/2014/09/Anchorpoint-Shopping-Centre.jpg"
-        }
+        },
         
         {
         	"name":"Bigbox",
         	"address":"1 Venture Ave, Singapore 608521",
         	"image":"http://www.stproperty.sg/articles-property/upload/article/189146__1416274536.jpg"
-        }
+        },
         
         {
         	"name":"Boon Lay Shopping Centre",
         	"address":"221 Boon Lay PI , Singapore 640221",
         	"image":"http://s3-media1.fl.yelpcdn.com/bphoto/yWzjNvCGL5tmPpwBM_VwXw/o.jpg"
-        }
+        },
         
         {
         	"name":"Clementi Mall",
         	"address":"3155 Commonwealth Ave W, Singapore 129588",
         	"image":"http://www.newlaunchpromotions.com/wp-content/uploads/2014/02/Clementi-Mall.jpg"
-        }
+        },
         
         {
         	"name":"Fairprice Hub",
         	"address":"1 Joo Koon Circle, Singapore 629117",
         	"image":"http://www.springtomorrow.com/wp-content/uploads/2014/12/Warehouse-Club-1.jpg"
-        }
+        },
         
         {
         	"name":"IMM",
         	"address":"2 Jurong East Street 21, Singapore 609601",
         	"image":"http://www.jurongnewlaunch.com/wp-content/uploads/2013/04/IMM.jpg"
-        }
+        },
         
         {
         	"name":"JCube",
         	"address":"2 Jurong East Central 1, Singapore 609731",
         	"image":"http://www.capitalandmallasia.com/-/media/images/cma/mall%20images/singapore/jcube/2jcube%20facade%20use%20this.jpg"
-        }
+        },
         
         {
         	"name":"JEM",
         	"address":"50 Jurong Gateway Road, Singapore 608549",
         	"image":"http://www.herworldplus.com/sites/default/files/Jem.jpg"
-        }
+        },
         
         {
         	"name":"Jurong Point Shopping Mall",
         	"address":"1 Jurong West Central 2, Singapore 648886",
         	"image":"http://www.commercialdb.com.sg/wp-content/uploads/00009631.jpg"
-        }
+        },
         
         {
         	"name":"Pioneer Mall",
         	"address":"638 Jurong West Street 61, Singapore 640638",
         	"image":"http://www.jurong.sg/uploads/2/3/7/3/23733606/_3412815.jpg"
-        }
+        },
         
         {
         	"name":"Rochester Mall",
         	"address":"35 Rochester Park, Singapore 138639",
         	"image":"http://www.uel.sg/imgs/our_services/ifm/Rochester-Mall2.jpg"
-        }
+        },
         
         {
         	"name":"Star Vista",
         	"address":"1 Vista Exchange Green, Singapore 138617",
         	"image":"http://inside.capitaland.com/images/static/stories/articles/2012/nov12_01_leisure.jpg?sfvrsn=2"
-        }
+        },
         
         {
         	"name":"Tiong Bahru Plaza",
         	"address":"298 Tiong Bahru Road, Singapore 168732",
         	"image":"http://www.huttonsnewlaunch.com/wp-content/uploads/9113e323648459_1_V550.jpg"
-        }
+        },
         
         {
         	"name":"Westgate",
