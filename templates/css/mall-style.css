@@ -1,12 +1,14 @@
 <style type="text/css">
 
-/*#mallinfo {
-	text-align:center;
+#mallinfo {
+    text-align:center;
+    position : absolute;
+ 
 }
-*/
+}
 /*whole page color */
 body{
-	background-image:url(/img/bg.jpg);
+	background-image:url(/img/bg.jpg) no-repeat center center fixed;
 	background-size:cover;
 	-webkit-background-size: cover;
     -moz-background-size: cover;
@@ -68,10 +70,6 @@ table {
  * Licensed under the MIT License:
  * http://www.opensource.org/licenses/mit-license.php
  */
-
-
-
-
 /*directory*/
 table{
     margin :0px auto;
@@ -126,7 +124,7 @@ button#search {
     background:-moz-linear-gradient( center top, #ededed 5%, #dfdfdf 100% );
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#dfdfdf');
     background-color:#ededed;
-    width:18%;
+    width:responsive;
     -moz-border-radius:6px;
     -webkit-border-radius:6px;
     border-radius:6px;
