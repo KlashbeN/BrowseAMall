@@ -11,8 +11,7 @@ Project URL: [Browse A Mall](http://www.browseamall.com )
 		
 Video URL: [Dinosaur Project Browse A Mall](https://youtu.be/osQjStOAci0?t=8336)
 					  
-Aimed current level of achievement: Vostok(Will be re-evaluating this in Milestone 2 
- 									to upgrade to project Gemini)
+Aimed current level of achievement: Vostok
 
 
 ##Description
@@ -30,6 +29,7 @@ inside the mall, finding their stores of interest.
 
 ####Features done
 Currently, we have done:
+* Added in bootstrap to ease view on different mobile/tablet devices
 * The banner image which is used on every page.
 * Setup the email accounts needed.
 * About us and Contact us page containing information about the site and how to contact us. 
@@ -50,8 +50,6 @@ Currently, we have done:
 ####Planned features
 * Our team hopes to add more malls to the website. 
 * Refine the forum further.
-* Adding in bootstrap to ease view on different mobile or tablet devices.
-* Once we have the website done, we would like to implement an iOS application with similar features found on the website.
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
