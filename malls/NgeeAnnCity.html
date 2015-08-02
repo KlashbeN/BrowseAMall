@@ -25,7 +25,7 @@
 </head>
 
 <body>
-
+<div class="container">
   <!-- Static navbar -->
       <nav class="navbar navbar-default">
         <div class="container-fluid">
@@ -70,74 +70,93 @@
 <div id ="mallinfo">
 <h2 style =" font-family:Cursive; font-size:200%;"> Ngee Ann City</h2>
 
-<img src="http://www.yoursingapore.com/content/traveller/en/browse/shopping/shopping-malls/ngee-ann-city/_jcr_content/html/image.img.png" alt="NgeeAnnCity" height ="300px" width:"400px" >
+<img src="http://www.yoursingapore.com/content/traveller/en/browse/shopping/shopping-malls/ngee-ann-city/_jcr_content/html/image.img.png" alt="NgeeAnnCity" height ="300px" width:"400px" class = "center-block img-responsive">
 
-
-<div id="container">
-    <div class="expandable-panel" id="cp-1">
-        <div class="expandable-panel-heading">
-            <h2>How to get there?<span class="icon-close-open"></span></h2>
-         </div>
-        <div class="expandable-panel-content">
-            <p> 
-            <!-- map-->
-            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:450px;width:450px;"><div id="gmap_canvas" style="height:450px;width:450px;"></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://premium-wordpress-themes.org" id="get-map-data">premium-wordpress-themes.org</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(1.302707,103.83428900000001),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(1.302707, 103.83428900000001)});infowindow = new google.maps.InfoWindow({content:"<b>Ngee Ann City</b><br/>391 Orchard Rd<br/>238873 Singapore" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>
-            
-            
+<div class="row">
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+ 
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingOne">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne"> How to get there? </a>
+      </h4>
+    </div><!--panel-heading-->
+    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+      <div class="panel-body">
+        <p> 
+            <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script><div style="overflow:hidden;height:450px;width:responsive;"><div id="gmap_canvas" style="height:450px;width:responsive;"></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style><a class="google-map-code" href="http://premium-wordpress-themes.org" id="get-map-data">premium-wordpress-themes.org</a></div><script type="text/javascript"> function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(1.302707,103.83428900000001),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(1.302707, 103.83428900000001)});infowindow = new google.maps.InfoWindow({content:"<b>Ngee Ann City</b><br/>391 Orchard Rd<br/>238873 Singapore" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>                    
 <form action="http://maps.google.com/maps" method="get" target="_blank">
 <p>Enter your starting address/Postal code :</p>
 <input type="text" name="saddr" />
 <input type="hidden" name="daddr" value="391 Orchard Rd, 238873" />
 <input type="submit" value="Get Directions" />
 </form>
+       <p>Click <a href="https://www.google.com.sg/maps/dir//Ngee+Ann+City,+391+Orchard+Rd,+Singapore+238873/@1.3026635,103.8346892,17z/data=!4m13!1m4!3m3!1s0x31da1991f36dbaff:0x2bcf2bec9aa9f23d!2sNgee+Ann+City!3b1!4m7!1m0!1m5!1m1!1s0x31da1991f36dbaff:0x2bcf2bec9aa9f23d!2m2!1d103.834745!2d1.30267"> here</a> for Ngee Ann City location on Google Map</p>
+       
+       <p style = "font-weight: bold;"> Nearest MRT</p>
+       <p style ="margin-bottom: 10px ;"> Orchard MRT(NS22/TE14)</p>
+       <p style = "font-weight: bold;"> Bus </p>  
+       <p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1</p></p>
+
+      </div><!--panel-body-->
+    </div><!--collapseOne-->
+  </div><!--panel-panel default-->
+ 
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingTwo">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> About Ngee Ann City </a>
+      </h4>
+    </div><!--panel-heading-->
+    <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+      <div class="panel-body">
+      <p style = "font-weight: bold;">Address: </p>
+      <p style ="margin-bottom: 10px ;">391 Orchard Rd, 238873 </p>
+      <p style = "font-weight: bold;"> Opening hours: </p>
+      <p style ="margin-bottom: 10px ;"> 10am to 9.30pm Daily </p>
+      <p style = "font-weight: bold;"> Contact </p>
+      <p>6506 0461 / 6506 0462 </p>
             
-<p>Click <a href="https://www.google.com.sg/maps/dir//Ngee+Ann+City,+391+Orchard+Rd,+Singapore+238873/@1.3026635,103.8346892,17z/data=!4m13!1m4!3m3!1s0x31da1991f36dbaff:0x2bcf2bec9aa9f23d!2sNgee+Ann+City!3b1!4m7!1m0!1m5!1m1!1s0x31da1991f36dbaff:0x2bcf2bec9aa9f23d!2m2!1d103.834745!2d1.30267"> here</a> for Ngee Ann City location on Google Map</p>
-
-<h4> Nearest MRT </h4>
-<p> Orchard MRT (NS22/TE14)</p>
-
-<h4> Bus </h4> 
-<p>14e, 124, 128, 143, 162, 162M, 167, 171, 190, 700, 700A, NR1</p></p>
+      </div> <!--panel-body-->
+  </div><!--collapseTwo-->
+  </div><!--panel panel-default-->
+  
+  <div class="panel panel-default">
+    <div class="panel-heading" role="tab" id="headingThree">
+      <h4 class="panel-title">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Shop Directory </a>
+      </h4>
+    </div> <!--panel-heading-->
+    <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+      <div class="panel-body">
+         <div class="formbg">
+            <div id="application">
+                <div>
+                   <input type="text" id="typehere" class="typebox">
+                   <button id="search">Search!</button>
+                </div>
+           </div>
         </div>
+       <div class="grid">
+         <div id="results"></div>
+       </div>
+       <div id="debug"></div>
+      </div>
     </div>
-    <div class="expandable-panel" id="cp-2">
-        <div class="expandable-panel-heading">
-            <h2>About Ngee Ann City<span class="icon-close-open"></span></h2>
-         </div>
-        <div class="expandable-panel-content">
-            <p>
-            <h3>Address:</h3>
-            <p> 391 Orchard Rd, 238873</p>
-<h3> Opening hours: </h3>
-<p> 10am to 9.30pm Daily </p>
-
-<h3> Contact </h3>
-<p> 6506 0461 / 6506 0462 </p></p>
- 
-        </div>
   </div>
-  <div class="expandable-panel" id="cp-3">
-     <div class="expandable-panel-heading">
-         <h2>Directory<span class="icon-close-open"></span></h2>
-     </div>
-     <div class="expandable-panel-content">
-         
-<div class="formbg">
-    <div id="application">
-        <div>
-            <input type="text" id="typehere" class="typebox">
-            <button id="search">Search!</button>
-        </div>
-    </div>
+  </div>
 </div>
-<div class="grid">
-    <div id="results"></div>
 </div>
-<div id="debug"></div></p> 
-     </div>
-  </div> 
+</div>
+</div>
+
+</div>
  
 </div>
+</div>
+
+
+
 
 <script type="text/javascript">
 
