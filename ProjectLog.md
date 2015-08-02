@@ -131,4 +131,63 @@ Total 129 hours
 Date: 27th - 29th June
 What did we do? Prepare README and ProjectLog for submission. Prepare and upload video. 
 				About 6hrs each student
+
+Date: 1st July - 3rd July
+What did we do? Testing bootstrap to be used on our website.
+				About 8hrs each student
+				
+Date: 4th July
+What did we do? Checking through carpark rate details and updating.
+				About 1hr each student
+				
+Date: 5th - 8th July
+What did we do? Rewriting html files to incorporate bootstrap and optimize the website.
+				About 12hrs each student.
+				
+Date: 10th July
+What did we do? Read up more on swift.
+				About 4hrs each student.
+				
+Date: 11th July
+What did we do? Add additional extension to forum to allow easy social account access.
+				Modified forum theme and reorganize.
+				About 5hrs each student.				
+				
+Date: 15th July
+What did we do? Testing and debugging website view on different tablet and devices.
+				About 4hrs each student.
+				
+Date: 16th July
+What did we do? Update individual mall pages to include more information.
+				About 5hrs each student.
+									
+Date: 17th July
+What did we do? Implemented normalize to standardise page loading for browsers. Tried optimizing web pages for faster loading.
+				About 3hrs each student.
+				
+Date: 18th July
+What did we do? Updated with new mall page Raffles City and store directory.
+				About 4hrs each student.
+				
+Date: 24th July
+What did we do? Updated mall database with all malls in Singapore.
+				About 4hrs each student.
+				
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Total 135 hours	
