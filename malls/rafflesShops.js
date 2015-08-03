@@ -184,7 +184,7 @@ var rafflesShops= [
 	{name: "Chomel " , unit: "#02-38" , contact: "63385835"},	
 	{name: "Topshop/ Topman " , unit: "#02-39" , contact: "63390117"},	
 	{name: "Dorothy Perkins " , unit: "#02-40" , contact: "63395996"},	
-	{name: "Asian Market Café", unit"Level 2,Fairmont" , contact:"64315255"}
+	{name: "Asian Market Café", unit:"Level 2,Fairmont" , contact:"64315255"},
 	
 	//Level 3
 	{name: "Robinsons " , unit: "#03-01/04/05" , contact: "62168388"},	
@@ -200,7 +200,7 @@ var rafflesShops= [
 	{name: "Precious Thots " , unit: "#03-18/19" , contact: "63321494"},	
 	{name: "Singtel Exclusive Retailer " , unit: "#03-20" , contact: "63392272"},
 	{name: "OSIM " , unit: "#03-21" , contact: "68371565"},	
-	{name: "Eastern Carpets", unit: "#03-21C" , contact: "63388135"}
+	{name: "Eastern Carpets", unit: "#03-21C" , contact: "63388135"},
 	{name: "Szechuan Court & Kitchen " , unit: "#03-22B, Fairmont" , contact: "64315323"},	
 	{name: "Harvey Norman " , unit: "#03-22/23" , contact: "63396777"},	
 	{name: "Fit N Fab " , unit: "#03-24" , contact: "63360961"},
@@ -218,45 +218,5 @@ var rafflesShops= [
 	{name: "Gingersnaps " , unit: "#03-35" , contact: "63369268"},
 	{name: "bloomB " , unit: "#03-36" , contact: "63387827"},	
 	{name: "Mikuni " , unit: "Level 3, Fairmont" , contact: "64315305"},	
-	{name: "Wooloomooloo Steakhouse " , unit: "Level 3, Swissotel"" , contact: "63380261"},	
+	{name: "Wooloomooloo Steakhouse" , unit: "Level 3, Swissotel" , contact: "63380261"},	
 ];
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-]
