@@ -10,6 +10,10 @@ Student Names: Cao Shuai Benjamin, Shirlene Quah Jiamin
 Project URL: [Browse A Mall](http://www.browseamall.com )
 		
 Video URL: [Dinosaur Project Browse A Mall](https://youtu.be/osQjStOAci0?t=8336)
+
+Video URL: [Dinosaur Project Browse A Mall Milestone 2](https://www.youtube.com/watch?v=Bxiu4qUHOqs)
+
+Video URL: [Dinosaur Project Browse A Mall Milestone 3](https://www.youtube.com/watch?v=snEHup0cwSI)
 					  
 Aimed current level of achievement: Vostok
 
@@ -54,7 +58,7 @@ Currently, we have done:
 	* One click login to forums with social network accounts have been implemented. This would allow users to either create a new account or to sign in using their social network accounts. 
 	* Social network accounts which users can login in with include( Facebook, Google, Instagram, OpenID, Twitter and Yahoo). 
 	* With the link with social network accounts, users can easily sign in to communicate with users in the forum. 
-	* Login in allows user to view new promotions/news about their saved favourite malls or most visited.
+	* Login in allows user to view new promotions/news about their favourite malls.
 	* Forum page also has a Market Place to allow users to communicate with each other to buy and sell items. To ensure that people do not miss use the site, moderate is present.  
 
 ####Testing
