@@ -137,8 +137,8 @@ What did we do? Testing bootstrap to be used on our website.
 				About 8hrs each student
 				
 Date: 4th July
-What did we do? Checking through carpark rate details and updating.
-				About 1hr each student
+What did we do? Checking through carpark rate details and updating to incorporate boostrap.
+				About 4hrs each student
 				
 Date: 5th - 8th July
 What did we do? Rewriting html files to incorporate bootstrap and optimize the website.
@@ -158,7 +158,7 @@ What did we do? Testing and debugging website view on different tablet and devic
 				About 4hrs each student.
 				
 Date: 16th July
-What did we do? Update individual mall pages to include more information.
+What did we do? Update individual mall pages to include more information and to incorporate bootstrap.
 				About 5hrs each student.
 									
 Date: 17th July
@@ -173,21 +173,4 @@ Date: 24th July
 What did we do? Updated mall database with all malls in Singapore.
 				About 4hrs each student.
 				
-				
-				
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Total 135 hours	
+Total 198 hours	
