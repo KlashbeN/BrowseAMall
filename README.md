@@ -14,6 +14,8 @@ Video URL: [Dinosaur Project Browse A Mall](https://youtu.be/osQjStOAci0?t=8336)
 Video URL: [Dinosaur Project Browse A Mall Milestone 2](https://www.youtube.com/watch?v=Bxiu4qUHOqs)
 
 Video URL: [Dinosaur Project Browse A Mall Milestone 3](https://www.youtube.com/watch?v=snEHup0cwSI)
+
+Facebook URL: [Browse A Mall FB Page](https://www.facebook.com/browseamall)
 					  
 Aimed current level of achievement: Vostok
 
