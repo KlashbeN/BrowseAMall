@@ -57,8 +57,10 @@ Currently, we have done:
 	* Login in allows user to view new promotions/news about their saved favourite malls or most visited.
 	* Forum page also has a Market Place to allow users to communicate with each other to buy and sell items. To ensure that people do not miss use the site, moderate is present.  
 
-#Testing
-	* We have asked 
+####Testing
+	* We have asked our friends to test out the site and create accounts to the forums page. 
+	* Users who used the site have also tested out the features and if those features help them enhance their experience in the malls.
+	* Tested out the information which users would like to have in the individual mall page. Before, we only had the links to google maps, nearest mrt and bus. 
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
