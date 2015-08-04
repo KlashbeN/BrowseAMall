@@ -14,7 +14,7 @@
 |Added more features - forums                              | 3 hrs  |
 |Wrote on js file to contain stores in vivo                | 4 hrs  | 
 |Debugging of search directory                             | 6 hrs  |
-|Prepare README and ProjectLog                             | 5 hrs  | 
+|Prepare README and ProjectLog    (Milestone 1)            | 5 hrs  | 
 |Search and modify code for carpark rates                  | 4 hrs  |
 |Wrote on ion.js and ngeeAnnCity.js files                  | 5 hrs  |
 |Wrote evaluations for other teams                         | 2 hrs  |
@@ -24,18 +24,19 @@
 |Edited of About us, Contact us and index page             | 2 hrs  |
 |Search on bootstrap to be used for website                | 6 hrs  |
 |Edited and customise forums page                          | 4 hrs  |
-|Prepare and upload README, ProjectLog, Video              | 6 hrs  |//29th June
-|Testing of bootstrap 									   | 8 hrs  |
-|Updating of carpark rates								   | 1 hrs  | 
-|Implementing bootstrap, rewriting web pages			   | 12hrs  | 
-|Read up on swift										   | 4 hrs  | 
-|Adding extensions to forum and modifying theme 		   | 5 hrs  | 
+|Prepare and upload README, ProjectLog, Video (Milestone 2)| 6 hrs  |
+|Testing of bootstrap 								                	   | 8 hrs  |
+|Updating of carpark rates						              		   | 4 hrs  | 
+|Implementing bootstrap, rewriting web pages			         | 12hrs  | 
+|Read up on swift									                    	   | 4 hrs  | 
+|Adding extensions to forum and modifying theme 		       | 5 hrs  | 
 |Testing and debugging website for different mobile device | 4 hrs  |
-|Update individual mall pages to include more information  | 5 hrs  |
-|Implemented normalized and optimize web pages 			   | 3 hrs  |
-|Updated new mall , Raffles City				           | 4 hrs  | 
-|Updated mall database									   | 4 hrs  |
+|Update individual mall pages to incorporate bootstrap     | 5 hrs  |
+|Implemented normalized and optimize web pages 	     		   | 3 hrs  |
+|Updated new mall , Raffles City				                   | 4 hrs  | 
+|Updated mall database					                				   | 4 hrs  |
+|Prepare Project Log, ReadMe and video (Milestone 3)       | 3 hrs  |
 
-Total : 135 hrs each as of 29th June
+Total : 201 hrs each as of 4th August
 
 More details of this projectLog can be found [here](https://github.com/KlashbeN/BrowseAMall/blob/master/ProjectLog.md)
