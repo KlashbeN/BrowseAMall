@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Browse A Mall </title>
+<title> Browse A Mall - Ngee Ann City</title>
 <link rel="stylesheet" type = "text/css" href = "/templates/css/mall-style.css">
 <script src="../scripts/jquery.min.js"></script>
 <script src = "ngeeAnnCity.js"></script>
@@ -57,11 +57,6 @@
                 </ul>
               </li>
             </ul>
-           <!-- <ul class="nav navbar-nav navbar-right">
-              <li class="active"><a href="./">Default <span class="sr-only">(current)</span></a></li>
-              <li><a href="../navbar-static-top/">Static top</a></li>
-              <li><a href="../navbar-fixed-top/">Fixed top</a></li>
-            </ul> -->
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
       </nav> 
@@ -138,7 +133,7 @@
            </div>
         </div>
        <div class="grid">
-         <div id="results"></div>
+         <div id="results" style='width:80%; margin:5px auto;'></div>
        </div>
        <div id="debug"></div>
       </div>
@@ -217,7 +212,7 @@
                 if (resultset && resultset.getSize()) {
                     var rsize = resultset.getSize();
                     //result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
-                    result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
+                    result += "<table style ='width:100%'><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
                     resultset.forEach(function(e) {
                         var c = ngeeAnnCityshops[e];
                         result += "<tr><td style='font-weight: bold;'>"+ c.name+"</td>";
