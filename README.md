@@ -58,9 +58,9 @@ Currently, we have done:
 	* Forum page also has a Market Place to allow users to communicate with each other to buy and sell items. To ensure that people do not miss use the site, moderate is present.  
 
 ####Testing
-	* We have asked our friends to test out the site and create accounts to the forums page. 
-	* Users who used the site have also tested out the features and if those features help them enhance their experience in the malls.
-	* Tested out the information which users would like to have in the individual mall page. Before, we only had the links to google maps, nearest mrt and bus. 
+* We have asked our friends to test out the site and create accounts to the forums page. 
+* Users who used the site have also tested out the features and if those features help them enhance their experience in the malls.
+* Tested out the information which users would like to have in the individual mall page. Before, we only had the links to google maps, nearest mrt and bus. After receiving feedback from users, we added in map of the vicinity and also a text box for users to enter their starting location.
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
