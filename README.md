@@ -26,25 +26,32 @@ discussion board.
 This project aims to create a user-friendly experience in browsing the different malls and stores in Singapore with an all-in-one browsing 
 experience in the same website.An iOS application will also be created which allows users to easily browse mall information and navigate
 inside the mall, finding their stores of interest. 
+Users who are using this website are shoppers hoping to get more information about the malls. These information can be seen below(Browse). 
 
 ####Features done
 Currently, we have done:
-* Added in bootstrap to ease view on different mobile/tablet devices
+* Added in bootstrap to ease view on different mobile/tablet devices. This would allow users to be able to view and navigate easily on the website. 
+* Added in a Facebook plugin. This would allow users to be able to share the website with their friends through facebook. 
 * The banner image which is used on every page.
-* Setup the email accounts needed.
-* About us and Contact us page containing information about the site and how to contact us. 
+* Setup the email accounts needed to allow users to be able to communicate with us.
+* About us and Contact us page containing information about us and how to contact us. 
 * Navigation bar which is use to facilitate the user to navigate through the website. Navigation bar would include all pages (Home, Browse, Parking Rates, Forums, About Us, Contact Us).
-* Browse
-	* Search tool for different malls. This would lead the user to the mall's page. 
-	* Each mall page would contain informations about the mall. These informations range from a guide to location, the mall's opening hours and contact number and shop directory. The shop directory uses a search function where user enters the shop they would like to enquire and it would show the user the shop's name, unit and contact number.
-	* Google Maps used to provide users the directions to get to the place.(Only Ion Orchard)
-	* Currently, we have mall pages for Vivo City, Ngee Ann City and Ion Orchard.
-* Parking rates
-	* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them.
-	* The carpark rates are broken down into different regions for users to find their malls easily.
+
+* Features in Browse Page
+	* Search tool for different malls. This would lead the user to the different mall page. 
+	* Currently, we have mall pages for Vivo City, Ngee Ann City, Ion Orchard and Raffles City.
+	* Each mall page would contain informations about the mall. These informations range from a guide to location, the mall's opening hours and contact number and shop directory. 
+	* The shop directory uses a search function where user enters the shop they would like to enquire and it would show the user the shop's name, unit and contact number. This would allow the users to be able to contact with the shop and also know where the shop is located in the mall. 
+	* Google Maps is used to provide users the directions to get to the place and a guide to the mall's vicinity. Users can also key in their starting location and get directions to the place using Google Maps. With this feature, it would allow users to be able to know how to get there using different modes of transport. 
+	* The mall's nearest MRT and Buses are also provided to aid users in getting to the mall.
+
+* Features in Parking rates
+	* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them. This would allow motorist to be able to have prior knowledge about the parking rates before entering the mall.
+	* The carpark rates are broken down into different regions(North, South, Orchard, West and East) for users to find their malls and respective parking locations easily. 
 * Forums
 	* This page would act as a guide to users on the current sales and promotions malls are having. 
-	* One click login to forums with social network accounts will also be implemented.
+	* One click login to forums with social network accounts have been implemented. This would allow users to either create a new account or to sign in using their social network accounts. 
+	* With the link with social network accounts, users can easily sign in to communicate with users in the forum. 
 	* Login in allows user to view new promotions/news about their saved favourite malls or most visited.
 
 ####Planned features
