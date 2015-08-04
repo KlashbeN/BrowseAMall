@@ -140,7 +140,7 @@
            </div>
         </div>
        <div class="grid">
-         <div id="results"></div>
+         <div id="results" style='width:80%; margin:5px auto;'></div>
        </div>
        <div id="debug"></div>
       </div>
@@ -219,7 +219,7 @@
                 if (resultset && resultset.getSize()) {
                     var rsize = resultset.getSize();
                     //result = "<h3>Found " + rsize + " shops"+(rsize> 1 ? "s" : "")+" matching your request.</h3>";
-                    result += "<table><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
+                    result += "<table style='width:100%'><tr><th>Name</th><th>Unit</th><th>Contact</th></tr>";
                     resultset.forEach(function(e) {
                         var c = rafflesShops[e];
                         result += "<tr><td style='font-weight: bold;'>"+ c.name+"</td>";
