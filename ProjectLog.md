@@ -173,4 +173,8 @@ Date: 24th July
 What did we do? Updated mall database with all malls in Singapore.
 				About 4hrs each student.
 				
+Date: 3rd-5th August
+What did we do? Prepare Project Log, ReadMe and Video (Milestone 3)
+				About 3hrs each student
+
 Total 198 hours	
