@@ -48,15 +48,17 @@ Currently, we have done:
 * Features in Parking rates
 	* The carpark rates of all malls in Singapore to allow people to have easy reference and access to them. This would allow motorist to be able to have prior knowledge about the parking rates before entering the mall.
 	* The carpark rates are broken down into different regions(North, South, Orchard, West and East) for users to find their malls and respective parking locations easily. 
+
 * Forums
 	* This page would act as a guide to users on the current sales and promotions malls are having. 
 	* One click login to forums with social network accounts have been implemented. This would allow users to either create a new account or to sign in using their social network accounts. 
+	* Social network accounts which users can login in with include( Facebook, Google, Instagram, OpenID, Twitter and Yahoo). 
 	* With the link with social network accounts, users can easily sign in to communicate with users in the forum. 
 	* Login in allows user to view new promotions/news about their saved favourite malls or most visited.
+	* Forum page also has a Market Place to allow users to communicate with each other to buy and sell items. To ensure that people do not miss use the site, moderate is present.  
 
-####Planned features
-* Our team hopes to add more malls to the website. 
-* Refine the forum further.
+#Testing
+	* We have asked 
 
 ##References
 [J Query MultiComplete](http://tomhallam.github.io/jQuery-Multicomplete/)
