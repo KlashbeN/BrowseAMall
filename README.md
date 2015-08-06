@@ -23,14 +23,14 @@ Aimed current level of achievement: Vostok
 ##Description
 
 Browse A Mall, an all-in-one website for you to browse through malls in Singapore with ease. Search all stores comfortably 
-in one website, find parking rates, learn more about possible events and happenings in the mall! Feeling lost? Use our iOS application
+in one website, find parking rates, learn more about possible events and happenings in the mall! Feeling lost? Use our website
 to find your way through the malls! Free and easy! Feel like joining in a discussion? Fret not, discuss with other fellow shoppers in our 
 discussion board.
 
 ####Scope of your project/Overview: 
 
 This project aims to create a user-friendly experience in browsing the different malls and stores in Singapore with an all-in-one browsing 
-experience in the same website.An iOS application will also be created which allows users to easily browse mall information and navigate
+experience in the same website.The website would allow users to easily browse mall information and navigate
 inside the mall, finding their stores of interest. 
 Users who are using this website are shoppers hoping to get more information about the malls. These information can be seen below(Browse). 
 
