@@ -17,7 +17,7 @@ Video URL: [Dinosaur Project Browse A Mall Milestone 3](https://www.youtube.com/
 
 Facebook URL: [Browse A Mall FB Page](https://www.facebook.com/browseamall)
 					  
-Aimed current level of achievement: Vostok
+Aimed current level of achievement: Vostok(Hoping to get Gemini if possible)
 
 
 ##Description
